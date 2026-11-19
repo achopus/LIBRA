@@ -9,6 +9,10 @@ abstract: >-
   repeated-measures designs by integer linear programming: balance across periods and carry-over
   within every stratum, user-defined rules, and a random choice among the best designs.
 version: 1.0.0
+doi: "10.5281/zenodo.24367262"
+date-released: "2026-11-19"
+repository-code: "https://github.com/achopus/LIBRA"
+url: "https://github.com/achopus/LIBRA"
 license: MIT
 authors:
   - family-names: Brejtr

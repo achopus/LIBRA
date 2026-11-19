@@ -11,7 +11,7 @@ Randomization. *Behavior Research Methods* (submitted).
 
 ## Quick start
 
-Installers for Windows and macOS are on the [Releases page](https://github.com/achopus/LIBRA/releases). To run LIBRA from source (Python 3.11 or
+Installers for Windows and macOS are on the [Releases page](https://github.com/achopus/LIBRA/releases) and in the archived copy of this version (https://doi.org/10.5281/zenodo.24367262). To run LIBRA from source (Python 3.11 or
 later):
 
 ```shell
