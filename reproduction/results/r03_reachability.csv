@@ -1,0 +1,5 @@
+t,N,variant,period_balanced_designs,optimal_designs,interior_optimal_designs,all_outputs_optimal,share_reached,interior_reached,extreme_reached,chi2_p,max_over_expected
+3,12,app,5,1,0,True,1.0,0,1,,1.0
+3,12,walk,5,1,0,True,1.0,0,1,,1.0
+3,15,app,6,2,0,True,1.0,0,2,0.5637028616507731,1.0333333333333334
+3,15,walk,6,2,0,True,1.0,0,2,0.13332693177434912,1.0866666666666667

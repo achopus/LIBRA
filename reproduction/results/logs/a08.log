@@ -1,0 +1,24 @@
+# a08_case_study.py  started 2026-11-03 11:19:54
+best found within the time limit {'carryover': 0.0, 'spread': 2.0} 189s
+                                     0                       0                       104
+design                  ILP (case study)  Williams (mean of 200)  Williams (best of 200)
+period_dev[all]                      0.0                     0.0                     0.0
+carry_dev[all]                       0.0                   20.86                    20.0
+carry_range[all]                     0.0                     3.8                     4.0
+spread_dev[all]                      0.0                    23.6                     0.0
+period_dev[stratum 1]                0.0                     0.0                     0.0
+carry_dev[stratum 1]                 0.0                    20.0                    20.0
+carry_range[stratum 1]               0.0                     2.0                     2.0
+spread_dev[stratum 1]                1.0                   10.04                     8.0
+period_dev[stratum 2]                0.0                     0.0                     0.0
+carry_dev[stratum 2]                 0.0                    20.0                    20.0
+carry_range[stratum 2]               0.0                     2.0                     2.0
+spread_dev[stratum 2]                1.0                    10.0                     8.0
+distinct_sequences                  28.0                  27.575                    30.0
+mi_per_change                   0.403632                 0.67431                0.403632
+mi_pooled                       0.321928                0.364537                 0.36278
+eff_M1                               1.0                     1.0                     1.0
+eff_M2                          0.947368                0.931898                0.932703
+G2_after1                       0.333333                   0.432                0.333333
+G3_after1                       0.333333                   0.432                0.333333
+G3_after2                            0.8                0.733833                0.733333

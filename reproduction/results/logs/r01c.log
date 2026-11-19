@@ -1,0 +1,10 @@
+# r01c_log_permutations.py  started 2026-11-02 14:45:45
+position x label counts of the relabelling permutation over 60 seeds (expected 10 each):
+[[14 14 10  5 10  7]
+ [ 8  3  9 15 16  9]
+ [12 12 11  6  7 12]
+ [ 7  8 10 10 11 14]
+ [10 11 12 15  7  5]
+ [ 9 12  8  9  9 13]]
+chi-square over positions: 33.4 df ~ 30 p ~ 0.3054
+agreement of consecutive seeds' permutations: 0.167 (independent: 0.167 )

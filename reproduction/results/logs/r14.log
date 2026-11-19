@@ -1,0 +1,123 @@
+# r14_exact_power.py  started 2026-11-02 15:08:48
+A simple
+A latin
+A williams
+A williams_best
+A rerand
+A classical
+A sa
+A sa_ws
+A ilp_nospread
+A ilp
+B simple
+B latin
+B williams
+B williams_best
+B rerand
+B classical
+B sa
+B sa_ws
+B ilp_nospread
+B ilp
+C simple
+C latin
+C williams
+C williams_best
+C rerand
+C sa
+C sa_ws
+C ilp_nospread
+C ilp
+D simple
+D latin
+D williams
+D williams_best
+D rerand
+D sa
+D sa_ws
+D ilp_nospread
+D ilp
+E simple
+E latin
+E williams
+E williams_best
+E rerand
+E sa
+E sa_ws
+E ilp_nospread
+E ilp
+config        method  n_designs  power_F  power_F_sd  S2_power_M2  S2_power_M2_sd  S2_bias_M1  SE_sexperiod_M1
+     A        simple        200   0.6051      0.0257          NaN             NaN         NaN              NaN
+     A         latin        200   0.6387      0.0000          NaN             NaN         NaN              NaN
+     A      williams        200   0.6387      0.0000          NaN             NaN         NaN              NaN
+     A williams_best        200   0.6387      0.0000          NaN             NaN         NaN              NaN
+     A        rerand        200   0.6226      0.0117          NaN             NaN         NaN              NaN
+     A     classical        200   0.6387      0.0000          NaN             NaN         NaN              NaN
+     A            sa         60   0.6387      0.0000          NaN             NaN         NaN              NaN
+     A         sa_ws         60   0.6387      0.0000          NaN             NaN         NaN              NaN
+     A  ilp_nospread         60   0.6387      0.0000          NaN             NaN         NaN              NaN
+     A           ilp         60   0.6387      0.0000          NaN             NaN         NaN              NaN
+     B        simple        200   0.9346      0.0061       0.5404          0.0421     -0.1047           0.2625
+     B         latin        200   0.9428      0.0000       0.5658          0.0410     -0.0990           0.2582
+     B      williams        200   0.9428      0.0000       0.5914          0.0090     -0.1002           0.2582
+     B williams_best        200   0.9428      0.0000       0.5927          0.0089     -0.1016           0.2582
+     B        rerand        200   0.9387      0.0026       0.5657          0.0287     -0.0995           0.2604
+     B     classical        200   0.9428      0.0000       0.6081          0.0000     -0.1000           0.2582
+     B            sa         60   0.9428      0.0000       0.5793          0.0322     -0.0936           0.2582
+     B         sa_ws         60   0.9428      0.0000       0.6069          0.0054     -0.1006           0.2582
+     B  ilp_nospread         60   0.9428      0.0000       0.6081          0.0000     -0.1000           0.2582
+     B           ilp         60   0.9428      0.0000       0.6081          0.0000     -0.1000           0.2582
+     C        simple        200   0.6290      0.0233          NaN             NaN         NaN              NaN
+     C         latin        200   0.6602      0.0000          NaN             NaN         NaN              NaN
+     C      williams        200   0.6602      0.0000          NaN             NaN         NaN              NaN
+     C williams_best        200   0.6602      0.0000          NaN             NaN         NaN              NaN
+     C        rerand        200   0.6493      0.0074          NaN             NaN         NaN              NaN
+     C            sa         60   0.6602      0.0000          NaN             NaN         NaN              NaN
+     C         sa_ws         60   0.6602      0.0000          NaN             NaN         NaN              NaN
+     C  ilp_nospread         60   0.6602      0.0000          NaN             NaN         NaN              NaN
+     C           ilp         60   0.6602      0.0000          NaN             NaN         NaN              NaN
+     D        simple        200   0.7884      0.0156       0.3391          0.0344     -0.0891           0.3252
+     D         latin        200   0.8082      0.0020       0.3680          0.0402     -0.0767           0.3175
+     D      williams        200   0.8083      0.0020       0.4046          0.0082     -0.0828           0.3174
+     D williams_best        200   0.8101      0.0010       0.4047          0.0081     -0.0849           0.3169
+     D        rerand        200   0.7980      0.0086       0.3611          0.0262     -0.0841           0.3213
+     D            sa         60   0.8102      0.0009       0.3918          0.0177     -0.0893           0.3169
+     D         sa_ws         60   0.8102      0.0009       0.4068          0.0086     -0.0754           0.3168
+     D  ilp_nospread         60   0.8103      0.0008       0.4060          0.0099     -0.0823           0.3169
+     D           ilp         60   0.8099      0.0008       0.4056          0.0093     -0.0830           0.3169
+     E        simple        200   0.3463      0.0326          NaN             NaN         NaN              NaN
+     E         latin        200   0.3812      0.0000          NaN             NaN         NaN              NaN
+     E      williams        200   0.3812      0.0000          NaN             NaN         NaN              NaN
+     E williams_best        200   0.3812      0.0000          NaN             NaN         NaN              NaN
+     E        rerand        200   0.3734      0.0064          NaN             NaN         NaN              NaN
+     E            sa         60   0.3812      0.0000          NaN             NaN         NaN              NaN
+     E         sa_ws         60   0.3812      0.0000          NaN             NaN         NaN              NaN
+     E  ilp_nospread         60   0.3812      0.0000          NaN             NaN         NaN              NaN
+     E           ilp         60   0.3812      0.0000          NaN             NaN         NaN              NaN
+scenario          carry_modelled  carry_unmodelled  dropout  effect  no_effect
+config method                                                                 
+A      classical           0.608             0.496    0.597   0.641      0.047
+       sa                  0.584             0.529    0.600   0.658      0.051
+       sa_ws               0.604             0.525    0.604   0.637      0.054
+B      classical           0.938             0.864    0.947   0.938      0.050
+       sa                  0.925             0.874    0.922   0.944      0.054
+       sa_ws               0.926             0.864    0.917   0.946      0.052
+C      sa                  0.611             0.512    0.620   0.649      0.044
+       sa_ws               0.599             0.508    0.624   0.656      0.046
+D      sa                  0.800             0.710    0.780   0.810      0.050
+       sa_ws               0.776             0.692    0.784   0.812      0.048
+E      sa                  0.298             0.270    0.328   0.386      0.058
+       sa_ws               0.288             0.264    0.330   0.400      0.042
+config method   scenario analysis   bias  emp_se  coverage  reject
+     B  sa_ws sex_period       M1 -0.000   0.258     0.961   0.902
+     B  sa_ws sex_period   M1+SxP -0.000   0.258     0.946   0.942
+     B  sa_ws  sex_carry    S2_M1 -0.099   0.359     0.948   0.528
+     B  sa_ws  sex_carry    S2_M2 -0.003   0.373     0.956   0.612
+     B  sa_ws        ar1       M1 -0.001   0.213     0.950   0.993
+     B  sa_ws   ar1_null       M1 -0.000   0.214     0.958   0.050
+     D  sa_ws sex_period       M1 -0.008   0.325     0.968   0.683
+     D  sa_ws sex_period   M1+SxP -0.001   0.319     0.949   0.805
+     D  sa_ws  sex_carry    S2_M1 -0.075   0.453     0.945   0.342
+     D  sa_ws  sex_carry    S2_M2 -0.003   0.465     0.949   0.396
+     D  sa_ws        ar1       M1 -0.006   0.277     0.949   0.920
+     D  sa_ws   ar1_null       M1  0.007   0.273     0.950   0.052

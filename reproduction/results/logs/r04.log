@@ -1,0 +1,19 @@
+# r04_rules.py  started 2026-11-02 14:59:58
+case  proven level_period level_carryover level_cooccurrence level_spread level_fulllist  period_dev  carry_dev  carry_range  spread_dev  rule_violations  eff_M2  cooc_dev  cooc_range  distinct_designs
+  A0     0.0     required        required                off    preferred            off         0.0        0.0          0.0         1.0              0.0   0.947       NaN         NaN                24
+  R1     1.0     required       preferred                off    preferred            off         0.0        6.0          2.0         0.0              0.0   0.861       NaN         NaN                23
+  R2     1.0    preferred       preferred                off    preferred            off        12.0        2.0          3.0         4.0              0.0   0.880       NaN         NaN                 4
+  R3     1.0     required        required           required     required            off         0.0        0.0          0.0         0.0              0.0     NaN       0.0         0.0                24
+   method case  designs  share_satisfying_rule
+   simple   R1      200                  0.005
+   simple   R2      200                  0.000
+    latin   R1      200                  0.000
+    latin   R2      200                  0.000
+ williams   R1      200                  0.000
+ williams   R2      200                  0.000
+   rerand   R1      200                  0.000
+   rerand   R2      200                  0.000
+classical   R1      200                  0.000
+classical   R2      200                  0.000
+      ilp   R1       60                  0.000
+      ilp   R2       60                  0.000

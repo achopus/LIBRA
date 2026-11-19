@@ -1,0 +1,4 @@
+config,method,designs,time_limit,statistic,null_mean,mc_p_value
+B,ilp,120,5,578.2,599.4,0.6925
+D,ilp_nospread,120,5,570.6,601.2,0.773
+A,ilp,120,5,268.4,300.5,0.8705

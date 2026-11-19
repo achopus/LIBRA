@@ -1,0 +1,9 @@
+numpy>=1.26
+pandas>=2.1
+highspy>=1.7
+matplotlib>=3.8
+openpyxl>=3.1
+PySide6>=6.6          # desktop app (Qt for Python)
+pytest>=8             # tests only
+# optional: gurobipy  (Gurobi solver, if you have a license)
+# to build installers: pyinstaller>=6.11

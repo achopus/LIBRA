@@ -1,0 +1,3 @@
+variant,optimal_designs,interior_designs,outputs_in_set,share_reached,extreme_reached,interior_reached,chi2_p,max_over_expected
+app,58,50,1.0,0.8275862068965517,8/8,40/50,1.862655586560286e-80,2.61
+walk,58,50,1.0,0.4482758620689655,1/8,25/50,0.0,7.83

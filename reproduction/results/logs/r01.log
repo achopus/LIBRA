@@ -1,0 +1,10 @@
+# r01_exchangeability_check.py  started 2026-11-02 14:37:12
+(1) original pools, 9,999 replicates, new stream
+  B ilp: p = 0.5360
+  D ilp_nospread: p = 0.0599
+  A ilp: p = 0.4127
+(2) calibration on pools exchangeable by construction (200 pools x 199 replicates)
+  B ilp: share p < 0.05 = 0.030, share p < 0.01 = 0.005, KS p = 0.680
+  D ilp_nospread: share p < 0.05 = 0.035, share p < 0.01 = 0.005, KS p = 0.074
+(3) consecutive seeds: agreement of the first permutation drawn from default_rng(seed)
+  mean position agreement 0.207 (independent: 0.200)

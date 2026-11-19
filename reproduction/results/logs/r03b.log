@@ -1,0 +1,5 @@
+# r03b_reachability_ilp.py  started 2026-11-02 14:54:35
+enumerated 58 designs in 25 s (Infeasible)
+optimal designs: 58, interior: 50
+{'variant': 'app', 'optimal_designs': 58, 'interior_designs': 50, 'outputs_in_set': 1.0, 'share_reached': np.float64(0.8275862068965517), 'extreme_reached': '8/8', 'interior_reached': '40/50', 'chi2_p': np.float64(1.862655586560286e-80), 'max_over_expected': np.float64(2.61)}
+{'variant': 'walk', 'optimal_designs': 58, 'interior_designs': 50, 'outputs_in_set': 1.0, 'share_reached': np.float64(0.4482758620689655), 'extreme_reached': '1/8', 'interior_reached': '25/50', 'chi2_p': np.float64(0.0), 'max_over_expected': np.float64(7.83)}

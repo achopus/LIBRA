@@ -1,0 +1,47 @@
+# a01_verification.py  started 2026-11-02 00:44:45
+HiGHS (highspy) 1.15.1
+ t  rows  period_balanced  carryover_balanced  pair_count
+ 2     2             True                True           1
+ 3     6             True                True           2
+ 4     4             True                True           1
+ 5    10             True                True           2
+ 6     6             True                True           1
+ 7    14             True                True           2
+ 8     8             True                True           1
+ 9    18             True                True           2
+10    10             True                True           1
+11    22             True                True           2
+12    12             True                True           1
+diagnostics cross-check: {'random_designs_checked': 500, 'mismatches': 0}
+{'case': 'row-complete Latin square, t=2', 't': 2, 'N': 2, 'expected': 'exists', 'status': 'Optimal', 'seconds': 0.0, 'formulation': 'sequence counts'}
+{'case': 'row-complete Latin square, t=3', 't': 3, 'N': 3, 'expected': 'does not exist', 'status': 'Infeasible', 'seconds': 0.0, 'formulation': 'sequence counts'}
+{'case': 'row-complete Latin square, t=4', 't': 4, 'N': 4, 'expected': 'exists', 'status': 'Optimal', 'seconds': 0.0, 'formulation': 'sequence counts'}
+{'case': 'row-complete Latin square, t=5', 't': 5, 'N': 5, 'expected': 'does not exist', 'status': 'Infeasible', 'seconds': 0.09, 'formulation': 'sequence counts'}
+{'case': 'row-complete Latin square, t=6', 't': 6, 'N': 6, 'expected': 'exists', 'status': 'Optimal', 'seconds': 0.08, 'formulation': 'sequence counts'}
+{'case': 'row-complete Latin square, t=7', 't': 7, 'N': 7, 'expected': 'does not exist', 'status': 'Infeasible', 'seconds': 71.54, 'formulation': 'sequence counts'}
+{'case': 'row-complete Latin square, t=8', 't': 8, 'N': 8, 'expected': 'exists', 'status': 'Time limit reached', 'seconds': 900.06, 'formulation': 'per-subject'}
+{'case': 't=3, lambda=1', 't': 3, 'N': 3, 'expected': 'does not exist', 'status': 'Infeasible', 'seconds': 0.0, 'formulation': 'sequence counts'}
+{'case': 't=3, lambda=2', 't': 3, 'N': 6, 'expected': 'exists', 'status': 'Optimal', 'seconds': 0.0, 'formulation': 'sequence counts'}
+{'case': 't=3, lambda=3', 't': 3, 'N': 9, 'expected': 'does not exist', 'status': 'Infeasible', 'seconds': 0.01, 'formulation': 'sequence counts'}
+{'case': 't=3, lambda=4', 't': 3, 'N': 12, 'expected': 'exists', 'status': 'Optimal', 'seconds': 0.0, 'formulation': 'sequence counts'}
+{'case': 't=3, lambda=5', 't': 3, 'N': 15, 'expected': 'does not exist', 'status': 'Infeasible', 'seconds': 0.0, 'formulation': 'sequence counts'}
+{'case': 't=3, lambda=6', 't': 3, 'N': 18, 'expected': 'exists', 'status': 'Optimal', 'seconds': 0.0, 'formulation': 'sequence counts'}
+{'case': 't=5, N=15 carry-over balance + perfect spread', 't': 5, 'N': 15, 'expected': '(new) does not exist', 'status': 'Infeasible', 'seconds': 10.94, 'formulation': 'sequence counts'}
+{'case': 't=5, N=15 carry-over balance, minimum spread excess', 't': 5, 'N': 15, 'expected': '(new) minimum = 1', 'status': 'Optimal', 'seconds': 49.88, 'formulation': 'sequence counts', 'result': '{"spread": 1.0}', 'proven': True}
+                                               case  t  N             expected             status  seconds     formulation          result proven
+                     row-complete Latin square, t=2  2  2               exists            Optimal     0.00 sequence counts             NaN    NaN
+                     row-complete Latin square, t=3  3  3       does not exist         Infeasible     0.00 sequence counts             NaN    NaN
+                     row-complete Latin square, t=4  4  4               exists            Optimal     0.00 sequence counts             NaN    NaN
+                     row-complete Latin square, t=5  5  5       does not exist         Infeasible     0.09 sequence counts             NaN    NaN
+                     row-complete Latin square, t=6  6  6               exists            Optimal     0.08 sequence counts             NaN    NaN
+                     row-complete Latin square, t=7  7  7       does not exist         Infeasible    71.54 sequence counts             NaN    NaN
+                     row-complete Latin square, t=8  8  8               exists Time limit reached   900.06     per-subject             NaN    NaN
+                                      t=3, lambda=1  3  3       does not exist         Infeasible     0.00 sequence counts             NaN    NaN
+                                      t=3, lambda=2  3  6               exists            Optimal     0.00 sequence counts             NaN    NaN
+                                      t=3, lambda=3  3  9       does not exist         Infeasible     0.01 sequence counts             NaN    NaN
+                                      t=3, lambda=4  3 12               exists            Optimal     0.00 sequence counts             NaN    NaN
+                                      t=3, lambda=5  3 15       does not exist         Infeasible     0.00 sequence counts             NaN    NaN
+                                      t=3, lambda=6  3 18               exists            Optimal     0.00 sequence counts             NaN    NaN
+       t=5, N=15 carry-over balance (Prescott 1999)  5 15               exists            Optimal     1.95 sequence counts             NaN    NaN
+      t=5, N=15 carry-over balance + perfect spread  5 15 (new) does not exist         Infeasible    10.94 sequence counts             NaN    NaN
+t=5, N=15 carry-over balance, minimum spread excess  5 15    (new) minimum = 1            Optimal    49.88 sequence counts {"spread": 1.0}   True

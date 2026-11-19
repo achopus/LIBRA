@@ -1,0 +1,54 @@
+# r15_human_example.py  started 2026-11-02 15:06:54
+seed 2
+seed 4
+seed 14
+seed 8
+seed 6
+seed 15
+seed 3
+seed 10
+seed 1
+seed 20
+seed 5
+seed 11
+seed 18
+seed 7
+seed 17
+seed 13
+seed 9
+seed 16
+seed 12
+seed 19
+seed 21
+seed 23
+seed 22
+seed 24
+                      mean     std     min     max  distinct_designs
+seconds             69.187  14.039  38.232  79.896                24
+period_dev[all]      0.000   0.000   0.000   0.000                24
+carry_dev[all]      24.000   0.000  24.000  24.000                24
+carry_range[all]     4.000   0.000   4.000   4.000                24
+spread_dev[all]      0.000   0.000   0.000   0.000                24
+violations[all]      0.000   0.000   0.000   0.000                24
+period_dev[site1]    0.000   0.000   0.000   0.000                24
+carry_dev[site1]     6.000   0.000   6.000   6.000                24
+carry_range[site1]   2.000   0.000   2.000   2.000                24
+spread_dev[site1]    0.000   0.000   0.000   0.000                24
+violations[site1]    0.000   0.000   0.000   0.000                24
+period_dev[site2]    0.000   0.000   0.000   0.000                24
+carry_dev[site2]     6.000   0.000   6.000   6.000                24
+carry_range[site2]   2.000   0.000   2.000   2.000                24
+spread_dev[site2]    0.000   0.000   0.000   0.000                24
+violations[site2]    0.000   0.000   0.000   0.000                24
+G2_1                 0.333   0.000   0.333   0.333                24
+G3_2                 0.725   0.065   0.600   0.833                24
+G3_2_by_site         1.000   0.000   1.000   1.000                24
+eff_M2               0.861   0.000   0.861   0.861                24
+eff_M1               1.000   0.000   1.000   1.000                24
+levels: [{'level_period': 'required', 'level_carryover': 'preferred', 'level_cooccurrence': 'off', 'level_spread': 'preferred', 'level_fulllist': 'off'}]
+   method   n  satisfy
+   simple 200        0
+    latin 200        0
+ williams 200        0
+   rerand 200        0
+classical 200        0

@@ -1,0 +1,7 @@
+# r05_aopt.py  started 2026-11-02 15:04:29
+config  aopt_eff_M2  aopt_eff_M1  aopt_period_dev  aopt_carry_range_worst  ilp_eff_M2  williams_eff_M2  ilp_share_of_aopt
+     A       0.9474       1.0000                0                       0      0.9474           0.9174             1.0000
+     B       0.9474       1.0000               40                       4      0.9474           0.9317             1.0000
+     C       0.9091       1.0000               20                       2      0.9091           0.9091             1.0000
+     D       0.9583       0.9960               19                       3      0.9576           0.9489             0.9992
+     E       0.7764       0.9747                4                       2      0.7333           0.7333             0.9446

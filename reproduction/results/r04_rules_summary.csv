@@ -1,0 +1,5 @@
+case,proven,level_period,level_carryover,level_cooccurrence,level_spread,level_fulllist,period_dev,carry_dev,carry_range,spread_dev,rule_violations,eff_M2,cooc_dev,cooc_range,distinct_designs
+A0,0.0,required,required,off,preferred,off,0.0,0.0,0.0,1.0,0.0,0.9473684210526314,,,24
+R1,1.0,required,preferred,off,preferred,off,0.0,6.0,2.0,0.0,0.0,0.8609491688749694,,,23
+R2,1.0,preferred,preferred,off,preferred,off,12.0,2.0,3.0,4.0,0.0,0.880014552170932,,,4
+R3,1.0,required,required,required,required,off,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,24

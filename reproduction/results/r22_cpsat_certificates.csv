@@ -1,0 +1,10 @@
+file,integer_data,variables,rows,cpsat_status,cpsat_objective,cpsat_bound,seconds,highs_status,highs_objective,agrees
+t3n9_carry.mps,True,6,16,INFEASIBLE,,,0.0,Infeasible,,True
+t4n2x8_min_g3_k2.mps,True,60,110,OPTIMAL,11.0,11.0,0.0,Optimal,11.0,True
+t4n8_min_g3_k2.mps,True,36,53,OPTIMAL,7.0,7.0,0.0,Optimal,7.000000000000002,True
+t5n15_carry_spread.mps,True,120,126,INFEASIBLE,,,0.5,Infeasible,,True
+t5n15_min_g3_k2.mps,True,140,106,OPTIMAL,10.0,10.0,12.9,Optimal,10.0000000000008,True
+t5n15_min_spread.mps,True,280,206,OPTIMAL,10.0,10.0,2.1,Optimal,10.0,True
+t5n15_nested.mps,True,120,106,INFEASIBLE,,,2.5,Infeasible,,True
+t5n2x15_min_g3_k2.mps,True,260,197,OPTIMAL,10.0,10.0,2.7,Optimal,9.999999999999988,True
+t6n10_min_g3_k2.mps,True,750,187,OPTIMAL,6.0,6.0,0.2,Optimal,6.0,True

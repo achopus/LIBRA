@@ -1,0 +1,4 @@
+# a06c_exchangeability_replication.py  started 2026-11-02 13:25:51
+{'config': 'B', 'method': 'ilp', 'designs': 120, 'time_limit': 5, 'statistic': np.float64(578.2), 'null_mean': np.float64(599.4), 'mc_p_value': np.float64(0.6925)}
+{'config': 'D', 'method': 'ilp_nospread', 'designs': 120, 'time_limit': 5, 'statistic': np.float64(570.6), 'null_mean': np.float64(601.2), 'mc_p_value': np.float64(0.773)}
+{'config': 'A', 'method': 'ilp', 'designs': 120, 'time_limit': 5, 'statistic': np.float64(268.4), 'null_mean': np.float64(300.5), 'mc_p_value': np.float64(0.8705)}

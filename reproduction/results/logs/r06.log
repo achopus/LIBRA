@@ -1,0 +1,108 @@
+# r06_sim_strata.py  started 2026-11-02 15:06:31
+B simple
+B latin
+B williams
+B williams_best
+B rerand
+B classical
+B sa
+B ilp
+D simple
+D latin
+D williams
+D williams_best
+D rerand
+D classical
+D sa
+D ilp
+config        method   scenario analysis   bias  emp_se  coverage  reject
+     B        simple sex_period       M1  0.010   0.279     0.960   0.890
+     B        simple sex_period   M1+SxP  0.003   0.268     0.954   0.926
+     B        simple  sex_carry    S2_M1 -0.111   0.384     0.940   0.484
+     B        simple  sex_carry    S2_M2 -0.009   0.406     0.948   0.529
+     B        simple        ar1       M1 -0.001   0.215     0.953   0.990
+     B        simple   ar1_null       M1 -0.001   0.227     0.935   0.061
+     B         latin sex_period       M1  0.003   0.255     0.964   0.903
+     B         latin sex_period   M1+SxP  0.003   0.255     0.956   0.950
+     B         latin  sex_carry    S2_M1 -0.109   0.376     0.940   0.523
+     B         latin  sex_carry    S2_M2 -0.015   0.405     0.946   0.560
+     B         latin        ar1       M1 -0.005   0.214     0.949   0.988
+     B         latin   ar1_null       M1 -0.007   0.220     0.944   0.044
+     B      williams sex_period       M1  0.018   0.257     0.965   0.916
+     B      williams sex_period   M1+SxP  0.018   0.257     0.948   0.946
+     B      williams  sex_carry    S2_M1 -0.102   0.361     0.951   0.522
+     B      williams  sex_carry    S2_M2 -0.004   0.374     0.953   0.573
+     B      williams        ar1       M1 -0.004   0.216     0.952   0.990
+     B      williams   ar1_null       M1 -0.002   0.223     0.946   0.058
+     B williams_best sex_period       M1  0.003   0.263     0.959   0.901
+     B williams_best sex_period   M1+SxP  0.003   0.263     0.944   0.940
+     B williams_best  sex_carry    S2_M1 -0.110   0.370     0.944   0.514
+     B williams_best  sex_carry    S2_M2 -0.007   0.387     0.947   0.588
+     B williams_best        ar1       M1 -0.004   0.211     0.958   0.992
+     B williams_best   ar1_null       M1  0.006   0.220     0.946   0.054
+     B        rerand sex_period       M1 -0.008   0.276     0.952   0.890
+     B        rerand sex_period   M1+SxP -0.002   0.262     0.951   0.929
+     B        rerand  sex_carry    S2_M1 -0.097   0.375     0.950   0.507
+     B        rerand  sex_carry    S2_M2 -0.004   0.392     0.954   0.560
+     B        rerand        ar1       M1  0.010   0.214     0.954   0.992
+     B        rerand   ar1_null       M1 -0.004   0.213     0.953   0.056
+     B     classical sex_period       M1  0.001   0.261     0.968   0.906
+     B     classical sex_period   M1+SxP  0.001   0.261     0.953   0.941
+     B     classical  sex_carry    S2_M1 -0.094   0.365     0.952   0.512
+     B     classical  sex_carry    S2_M2  0.007   0.374     0.954   0.616
+     B     classical        ar1       M1  0.000   0.215     0.955   0.992
+     B     classical   ar1_null       M1  0.004   0.212     0.954   0.052
+     B            sa sex_period       M1 -0.002   0.265     0.960   0.900
+     B            sa sex_period   M1+SxP -0.002   0.265     0.946   0.940
+     B            sa  sex_carry    S2_M1 -0.093   0.360     0.950   0.524
+     B            sa  sex_carry    S2_M2 -0.004   0.379     0.952   0.580
+     B            sa        ar1       M1  0.001   0.211     0.952   0.994
+     B            sa   ar1_null       M1  0.001   0.219     0.944   0.051
+     B           ilp sex_period       M1 -0.008   0.261     0.966   0.901
+     B           ilp sex_period   M1+SxP -0.008   0.261     0.950   0.942
+     B           ilp  sex_carry    S2_M1 -0.107   0.363     0.952   0.508
+     B           ilp  sex_carry    S2_M2 -0.008   0.374     0.952   0.600
+     B           ilp        ar1       M1  0.007   0.218     0.948   0.992
+     B           ilp   ar1_null       M1 -0.004   0.218     0.947   0.048
+     D        simple sex_period       M1 -0.012   0.369     0.944   0.674
+     D        simple sex_period   M1+SxP -0.017   0.337     0.948   0.750
+     D        simple  sex_carry    S2_M1 -0.105   0.489     0.941   0.312
+     D        simple  sex_carry    S2_M2 -0.021   0.530     0.948   0.320
+     D        simple        ar1       M1 -0.002   0.282     0.949   0.906
+     D        simple   ar1_null       M1  0.006   0.274     0.954   0.044
+     D         latin sex_period       M1 -0.003   0.334     0.968   0.668
+     D         latin sex_period   M1+SxP -0.010   0.327     0.950   0.788
+     D         latin  sex_carry    S2_M1 -0.079   0.456     0.942   0.356
+     D         latin  sex_carry    S2_M2 -0.005   0.505     0.945   0.366
+     D         latin        ar1       M1  0.002   0.272     0.955   0.926
+     D         latin   ar1_null       M1 -0.001   0.273     0.944   0.052
+     D      williams sex_period       M1  0.007   0.333     0.964   0.675
+     D      williams sex_period   M1+SxP -0.003   0.329     0.947   0.795
+     D      williams  sex_carry    S2_M1 -0.085   0.454     0.954   0.354
+     D      williams  sex_carry    S2_M2 -0.002   0.468     0.950   0.410
+     D      williams        ar1       M1  0.009   0.272     0.944   0.926
+     D      williams   ar1_null       M1  0.004   0.274     0.952   0.054
+     D williams_best sex_period       M1  0.001   0.329     0.961   0.690
+     D williams_best sex_period   M1+SxP -0.004   0.323     0.944   0.801
+     D williams_best  sex_carry    S2_M1 -0.091   0.443     0.955   0.344
+     D williams_best  sex_carry    S2_M2 -0.005   0.458     0.950   0.406
+     D williams_best        ar1       M1 -0.002   0.265     0.955   0.926
+     D williams_best   ar1_null       M1  0.004   0.269     0.951   0.051
+     D        rerand sex_period       M1 -0.015   0.338     0.961   0.682
+     D        rerand sex_period   M1+SxP -0.005   0.316     0.960   0.780
+     D        rerand  sex_carry    S2_M1 -0.076   0.473     0.954   0.336
+     D        rerand  sex_carry    S2_M2  0.009   0.504     0.951   0.364
+     D        rerand        ar1       M1  0.013   0.278     0.946   0.924
+     D        rerand   ar1_null       M1  0.001   0.266     0.957   0.044
+     D            sa sex_period       M1 -0.001   0.324     0.966   0.680
+     D            sa sex_period   M1+SxP -0.001   0.320     0.946   0.802
+     D            sa  sex_carry    S2_M1 -0.092   0.449     0.949   0.348
+     D            sa  sex_carry    S2_M2 -0.006   0.471     0.951   0.395
+     D            sa        ar1       M1  0.003   0.266     0.950   0.930
+     D            sa   ar1_null       M1  0.002   0.278     0.948   0.042
+     D           ilp sex_period       M1  0.037   0.322     0.964   0.723
+     D           ilp sex_period   M1+SxP  0.023   0.317     0.956   0.818
+     D           ilp  sex_carry    S2_M1 -0.065   0.440     0.956   0.368
+     D           ilp  sex_carry    S2_M2  0.017   0.452     0.958   0.418
+     D           ilp        ar1       M1  0.005   0.272     0.944   0.922
+     D           ilp   ar1_null       M1  0.003   0.268     0.954   0.048

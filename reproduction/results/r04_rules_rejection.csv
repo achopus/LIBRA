@@ -1,0 +1,13 @@
+method,case,designs,share_satisfying_rule
+simple,R1,200,0.005
+simple,R2,200,0.0
+latin,R1,200,0.0
+latin,R2,200,0.0
+williams,R1,200,0.0
+williams,R2,200,0.0
+rerand,R1,200,0.0
+rerand,R2,200,0.0
+classical,R1,200,0.0
+classical,R2,200,0.0
+ilp,R1,60,0.0
+ilp,R2,60,0.0

@@ -1,0 +1,3 @@
+# x02_independent_check.py  started 2026-11-02 04:25:30
+nested balance off: Optimal 0.4s
+nested balance on : Infeasible 17.4s

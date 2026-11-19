@@ -1,0 +1,5 @@
+t,N,period_balanced_designs,optimal_designs,seeds,all_outputs_optimal,distinct_outputs,share_of_optimal_set_reached,chi2_uniformity_p,max_over_expected
+3,6,3,1,300,True,1,1.0,,1.0
+3,9,4,2,300,True,2,1.0,0.0496472296574563,1.1133333333333333
+4,4,24,6,300,True,6,1.0,0.5551892641571902,1.16
+4,8,411,12,300,True,12,1.0,0.09133821624544262,1.44

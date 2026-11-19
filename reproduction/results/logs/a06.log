@@ -1,0 +1,74 @@
+# a06_randomization_validity.py  started 2026-11-02 13:21:27
+config  scenario reference  rejection_rate     mcse    n
+     A no_effect  pipeline           0.044 0.006486 1000
+     A no_effect     orbit           0.036 0.005891 1000
+     A no_effect     naive           0.040 0.006197 1000
+     A    effect  pipeline           0.625 0.015309 1000
+     A    effect     orbit           0.627 0.015293 1000
+     A    effect     naive           0.625 0.015309 1000
+config  scenario reference  rejection_rate     mcse    n
+     B no_effect  pipeline           0.033 0.005649 1000
+     B no_effect     orbit           0.044 0.006486 1000
+     B no_effect     naive           0.040 0.006197 1000
+     B    effect  pipeline           0.926 0.008278 1000
+     B    effect     orbit           0.925 0.008329 1000
+     B    effect     naive           0.928 0.008174 1000
+config  scenario reference  rejection_rate     mcse    n
+     D no_effect  pipeline           0.058 0.007392 1000
+     D no_effect     orbit           0.060 0.007510 1000
+     D no_effect     naive           0.055 0.007209 1000
+     D    effect  pipeline           0.781 0.013078 1000
+     D    effect     orbit           0.771 0.013288 1000
+     D    effect     naive           0.776 0.013184 1000
+config   method  designs  cells_tested  share_p_below_0.05  fisher_combined_p  max_abs_dev_from_1/t
+     A      ilp       60            75              0.0000             0.4625                0.1333
+     A   simple      200            75              0.0267             0.7195                0.0900
+     A williams      200            75              0.0667             0.8000                0.0850
+     B      ilp       60           150              0.0467             0.5427                0.1667
+     B   simple      200           150              0.0467             0.1313                0.1000
+     B williams      200           150              0.0600             0.3932                0.1050
+     C      ilp       60            64              0.0469             0.2451                0.1667
+     C   simple      200            64              0.0625             0.7850                0.1100
+     C williams      200            64              0.0469             0.3348                0.1050
+     D      ilp       60           120              0.0250             0.5006                0.1667
+     D   simple      200           120              0.0167             0.9872                0.0683
+     D williams      200           120              0.0417             0.4619                0.0817
+     E      ilp       60            27              0.0000             0.7944                0.1333
+     E   simple      200            27              0.1111             0.0520                0.0933
+     E williams      200            27              0.0000             0.8427                0.0733
+config       method  designs  distinct_allocations  distinct_skeletons
+     A       simple       60                    60                  60
+     A        latin       60                    60                  60
+     A     williams       60                    60                   4
+     A       rerand       60                    60                  60
+     A ilp_nospread       60                    60                  59
+     A          ilp       60                    60                   2
+     B       simple       60                    60                  60
+     B        latin       60                    60                  60
+     B     williams       60                    60                  56
+     B       rerand       60                    60                  60
+     B ilp_nospread       60                    60                  60
+     B          ilp       60                    60                  60
+     C       simple       60                    60                  60
+     C        latin       60                    60                  59
+     C     williams       60                    60                  22
+     C       rerand       60                    60                  60
+     C ilp_nospread       60                    60                  15
+     C          ilp       60                    60                   2
+     D       simple       60                    60                  60
+     D        latin       60                    60                  60
+     D     williams       60                    60                  60
+     D       rerand       60                    60                  60
+     D ilp_nospread       60                    60                  60
+     D          ilp       60                    60                  60
+     E       simple       60                    60                  54
+     E        latin       60                    60                   2
+     E     williams       60                    60                   1
+     E       rerand       60                    60                   4
+     E ilp_nospread       60                    60                   1
+     E          ilp       60                    60                   1
+ t  N  period_balanced_designs  optimal_designs  seeds  all_outputs_optimal  distinct_outputs  share_of_optimal_set_reached  chi2_uniformity_p  max_over_expected
+ 3  6                        3                1    300                 True                 1                           1.0                NaN           1.000000
+ 3  9                        4                2    300                 True                 2                           1.0           0.049647           1.113333
+ 4  4                       24                6    300                 True                 6                           1.0           0.555189           1.160000
+ 4  8                      411               12    300                 True                12                           1.0           0.091338           1.440000

@@ -1,0 +1,21 @@
+# a06b_exchangeability.py  started 2026-11-02 13:25:36
+{'config': 'A', 'method': 'ilp', 'designs': 60, 'statistic': np.float64(305.8), 'null_mean': np.float64(301.1), 'mc_p_value': np.float64(0.439), 'max_abs_dev_from_1/t': np.float64(0.13333333333333336)}
+{'config': 'A', 'method': 'ilp_nospread', 'designs': 60, 'statistic': np.float64(308.8), 'null_mean': np.float64(299.2), 'mc_p_value': np.float64(0.378), 'max_abs_dev_from_1/t': np.float64(0.16666666666666663)}
+{'config': 'A', 'method': 'williams', 'designs': 60, 'statistic': np.float64(282.7), 'null_mean': np.float64(300.7), 'mc_p_value': np.float64(0.721), 'max_abs_dev_from_1/t': np.float64(0.13333333333333336)}
+{'config': 'A', 'method': 'simple', 'designs': 60, 'statistic': np.float64(262.5), 'null_mean': np.float64(298.9), 'mc_p_value': np.float64(0.911), 'max_abs_dev_from_1/t': np.float64(0.1333333333333333)}
+{'config': 'B', 'method': 'ilp', 'designs': 60, 'statistic': np.float64(595.5), 'null_mean': np.float64(601.3), 'mc_p_value': np.float64(0.552), 'max_abs_dev_from_1/t': np.float64(0.16666666666666663)}
+{'config': 'B', 'method': 'ilp_nospread', 'designs': 60, 'statistic': np.float64(526.7), 'null_mean': np.float64(601.0), 'mc_p_value': np.float64(0.972), 'max_abs_dev_from_1/t': np.float64(0.16666666666666663)}
+{'config': 'B', 'method': 'williams', 'designs': 60, 'statistic': np.float64(573.0), 'null_mean': np.float64(600.5), 'mc_p_value': np.float64(0.752), 'max_abs_dev_from_1/t': np.float64(0.18333333333333335)}
+{'config': 'B', 'method': 'simple', 'designs': 60, 'statistic': np.float64(534.8), 'null_mean': np.float64(600.4), 'mc_p_value': np.float64(0.973), 'max_abs_dev_from_1/t': np.float64(0.14999999999999997)}
+{'config': 'C', 'method': 'ilp', 'designs': 60, 'statistic': np.float64(206.0), 'null_mean': np.float64(191.5), 'mc_p_value': np.float64(0.275), 'max_abs_dev_from_1/t': np.float64(0.16666666666666669)}
+{'config': 'C', 'method': 'ilp_nospread', 'designs': 60, 'statistic': np.float64(171.7), 'null_mean': np.float64(192.5), 'mc_p_value': np.float64(0.805), 'max_abs_dev_from_1/t': np.float64(0.16666666666666669)}
+{'config': 'C', 'method': 'williams', 'designs': 60, 'statistic': np.float64(207.5), 'null_mean': np.float64(193.5), 'mc_p_value': np.float64(0.271), 'max_abs_dev_from_1/t': np.float64(0.2)}
+{'config': 'C', 'method': 'simple', 'designs': 60, 'statistic': np.float64(156.0), 'null_mean': np.float64(191.1), 'mc_p_value': np.float64(0.948), 'max_abs_dev_from_1/t': np.float64(0.15)}
+{'config': 'D', 'method': 'ilp', 'designs': 60, 'statistic': np.float64(606.4), 'null_mean': np.float64(599.0), 'mc_p_value': np.float64(0.418), 'max_abs_dev_from_1/t': np.float64(0.16666666666666666)}
+{'config': 'D', 'method': 'ilp_nospread', 'designs': 60, 'statistic': np.float64(663.0), 'null_mean': np.float64(600.2), 'mc_p_value': np.float64(0.06), 'max_abs_dev_from_1/t': np.float64(0.16666666666666666)}
+{'config': 'D', 'method': 'williams', 'designs': 60, 'statistic': np.float64(557.6), 'null_mean': np.float64(599.0), 'mc_p_value': np.float64(0.87), 'max_abs_dev_from_1/t': np.float64(0.15)}
+{'config': 'D', 'method': 'simple', 'designs': 60, 'statistic': np.float64(619.2), 'null_mean': np.float64(601.3), 'mc_p_value': np.float64(0.312), 'max_abs_dev_from_1/t': np.float64(0.15)}
+{'config': 'E', 'method': 'ilp', 'designs': 60, 'statistic': np.float64(45.3), 'null_mean': np.float64(54.6), 'mc_p_value': np.float64(0.751), 'max_abs_dev_from_1/t': np.float64(0.13333333333333336)}
+{'config': 'E', 'method': 'ilp_nospread', 'designs': 60, 'statistic': np.float64(45.3), 'null_mean': np.float64(54.2), 'mc_p_value': np.float64(0.742), 'max_abs_dev_from_1/t': np.float64(0.13333333333333336)}
+{'config': 'E', 'method': 'williams', 'designs': 60, 'statistic': np.float64(58.9), 'null_mean': np.float64(53.6), 'mc_p_value': np.float64(0.315), 'max_abs_dev_from_1/t': np.float64(0.16666666666666669)}
+{'config': 'E', 'method': 'simple', 'designs': 60, 'statistic': np.float64(86.8), 'null_mean': np.float64(54.0), 'mc_p_value': np.float64(0.016), 'max_abs_dev_from_1/t': np.float64(0.16666666666666669)}

@@ -1,0 +1,601 @@
+config,method,seed,status,proven,formulation,seconds,viol_carryover,viol_spread,level_period,level_carryover,level_cooccurrence,level_spread
+A,ilp,1,best found within the time limit,False,sequence counts,20.043075799942017,0.0,1.0,required,required,off,preferred
+A,ilp,2,best found within the time limit,False,sequence counts,20.032266855239868,0.0,1.0,required,required,off,preferred
+A,ilp,3,best found within the time limit,False,sequence counts,20.019015550613403,0.0,1.0,required,required,off,preferred
+A,ilp,4,best found within the time limit,False,sequence counts,20.020148992538452,0.0,1.0,required,required,off,preferred
+A,ilp,5,best found within the time limit,False,sequence counts,20.02291750907898,0.0,1.0,required,required,off,preferred
+A,ilp,6,best found within the time limit,False,sequence counts,20.018019914627075,0.0,1.0,required,required,off,preferred
+A,ilp,7,best found within the time limit,False,sequence counts,20.017009496688843,0.0,1.0,required,required,off,preferred
+A,ilp,8,best found within the time limit,False,sequence counts,20.018786668777466,0.0,1.0,required,required,off,preferred
+A,ilp,9,best found within the time limit,False,sequence counts,20.014991998672485,0.0,1.0,required,required,off,preferred
+A,ilp,10,best found within the time limit,False,sequence counts,20.018156051635742,0.0,1.0,required,required,off,preferred
+A,ilp,11,best found within the time limit,False,sequence counts,20.017292022705078,0.0,1.0,required,required,off,preferred
+A,ilp,12,best found within the time limit,False,sequence counts,20.01887011528015,0.0,1.0,required,required,off,preferred
+A,ilp,13,best found within the time limit,False,sequence counts,20.02171754837036,0.0,1.0,required,required,off,preferred
+A,ilp,14,best found within the time limit,False,sequence counts,17.51982092857361,0.0,1.0,required,required,off,preferred
+A,ilp,15,best found within the time limit,False,sequence counts,19.82725477218628,0.0,1.0,required,required,off,preferred
+A,ilp,16,best found within the time limit,False,sequence counts,20.018683671951294,0.0,1.0,required,required,off,preferred
+A,ilp,17,best found within the time limit,False,sequence counts,20.017392873764038,0.0,1.0,required,required,off,preferred
+A,ilp,18,best found within the time limit,False,sequence counts,20.023137092590332,0.0,1.0,required,required,off,preferred
+A,ilp,19,best found within the time limit,False,sequence counts,20.025248289108276,0.0,1.0,required,required,off,preferred
+A,ilp,20,best found within the time limit,False,sequence counts,20.01846981048584,0.0,1.0,required,required,off,preferred
+A,ilp,21,best found within the time limit,False,sequence counts,20.021342277526855,0.0,1.0,required,required,off,preferred
+A,ilp,22,best found within the time limit,False,sequence counts,20.02447271347046,0.0,1.0,required,required,off,preferred
+A,ilp,23,best found within the time limit,False,sequence counts,20.02645230293274,0.0,1.0,required,required,off,preferred
+A,ilp,24,best found within the time limit,False,sequence counts,20.020179510116577,0.0,1.0,required,required,off,preferred
+A,ilp,25,best found within the time limit,False,sequence counts,20.02278208732605,0.0,1.0,required,required,off,preferred
+A,ilp,26,best found within the time limit,False,sequence counts,20.023080825805664,0.0,1.0,required,required,off,preferred
+A,ilp,27,best found within the time limit,False,sequence counts,20.025646924972534,0.0,1.0,required,required,off,preferred
+A,ilp,28,best found within the time limit,False,sequence counts,20.02835726737976,0.0,1.0,required,required,off,preferred
+A,ilp,29,best found within the time limit,False,sequence counts,20.04737377166748,0.0,1.0,required,required,off,preferred
+A,ilp,30,best found within the time limit,False,sequence counts,20.065847158432007,0.0,3.0,required,required,off,preferred
+A,ilp,31,best found within the time limit,False,sequence counts,20.025169610977173,0.0,1.0,required,required,off,preferred
+A,ilp,32,best found within the time limit,False,sequence counts,20.037420988082886,0.0,4.0,required,required,off,preferred
+A,ilp,33,best found within the time limit,False,sequence counts,20.046717405319214,0.0,3.0,required,required,off,preferred
+A,ilp,34,best found within the time limit,False,sequence counts,20.045101165771484,0.0,1.0,required,required,off,preferred
+A,ilp,35,best found within the time limit,False,sequence counts,20.048165321350098,0.0,1.0,required,required,off,preferred
+A,ilp,36,best found within the time limit,False,sequence counts,20.03881049156189,0.0,3.0,required,required,off,preferred
+A,ilp,37,best found within the time limit,False,sequence counts,20.050216913223267,0.0,1.0,required,required,off,preferred
+A,ilp,38,best found within the time limit,False,sequence counts,20.047924518585205,0.0,4.0,required,required,off,preferred
+A,ilp,39,best found within the time limit,False,sequence counts,20.03121852874756,0.0,1.0,required,required,off,preferred
+A,ilp,40,best found within the time limit,False,sequence counts,20.045289993286133,0.0,1.0,required,required,off,preferred
+A,ilp,41,best found within the time limit,False,sequence counts,20.03117275238037,0.0,1.0,required,required,off,preferred
+A,ilp,42,best found within the time limit,False,sequence counts,20.06833577156067,0.0,1.0,required,required,off,preferred
+A,ilp,43,best found within the time limit,False,sequence counts,20.044069528579712,0.0,3.0,required,required,off,preferred
+A,ilp,44,best found within the time limit,False,sequence counts,20.034539699554443,0.0,3.0,required,required,off,preferred
+A,ilp,45,best found within the time limit,False,sequence counts,20.027629852294922,0.0,1.0,required,required,off,preferred
+A,ilp,46,best found within the time limit,False,sequence counts,20.056204557418823,0.0,1.0,required,required,off,preferred
+A,ilp,47,best found within the time limit,False,sequence counts,20.08945608139038,0.0,1.0,required,required,off,preferred
+A,ilp,48,best found within the time limit,False,sequence counts,20.01770043373108,0.0,1.0,required,required,off,preferred
+A,ilp,49,best found within the time limit,False,sequence counts,17.81962561607361,0.0,1.0,required,required,off,preferred
+A,ilp,50,best found within the time limit,False,sequence counts,20.016539573669434,0.0,1.0,required,required,off,preferred
+A,ilp,51,best found within the time limit,False,sequence counts,20.016925573349,0.0,3.0,required,required,off,preferred
+A,ilp,52,best found within the time limit,False,sequence counts,20.018621921539307,0.0,1.0,required,required,off,preferred
+A,ilp,53,best found within the time limit,False,sequence counts,19.63396406173706,0.0,1.0,required,required,off,preferred
+A,ilp,54,best found within the time limit,False,sequence counts,20.021920919418335,0.0,1.0,required,required,off,preferred
+A,ilp,55,best found within the time limit,False,sequence counts,20.0256667137146,0.0,1.0,required,required,off,preferred
+A,ilp,56,best found within the time limit,False,sequence counts,20.022777557373047,0.0,3.0,required,required,off,preferred
+A,ilp,57,best found within the time limit,False,sequence counts,20.027596950531006,0.0,1.0,required,required,off,preferred
+A,ilp,58,best found within the time limit,False,sequence counts,20.026238441467285,0.0,1.0,required,required,off,preferred
+A,ilp,59,best found within the time limit,False,sequence counts,20.05991840362549,0.0,1.0,required,required,off,preferred
+A,ilp,60,best found within the time limit,False,sequence counts,20.023480892181396,0.0,1.0,required,required,off,preferred
+A,ilp_nospread,1,optimal,True,sequence counts,3.346558094024658,0.0,,required,required,off,off
+A,ilp_nospread,2,optimal,True,sequence counts,0.805811882019043,0.0,,required,required,off,off
+A,ilp_nospread,3,optimal,True,sequence counts,1.050853967666626,0.0,,required,required,off,off
+A,ilp_nospread,4,optimal,True,sequence counts,3.2915425300598145,0.0,,required,required,off,off
+A,ilp_nospread,5,optimal,True,sequence counts,1.1812903881072998,0.0,,required,required,off,off
+A,ilp_nospread,6,optimal,True,sequence counts,4.375613212585449,0.0,,required,required,off,off
+A,ilp_nospread,7,optimal,True,sequence counts,2.693153142929077,0.0,,required,required,off,off
+A,ilp_nospread,8,optimal,True,sequence counts,2.3638343811035156,0.0,,required,required,off,off
+A,ilp_nospread,9,optimal,True,sequence counts,1.1939280033111572,0.0,,required,required,off,off
+A,ilp_nospread,10,optimal,True,sequence counts,0.7699196338653564,0.0,,required,required,off,off
+A,ilp_nospread,11,optimal,True,sequence counts,3.9377121925354004,0.0,,required,required,off,off
+A,ilp_nospread,12,optimal,True,sequence counts,1.748765468597412,0.0,,required,required,off,off
+A,ilp_nospread,13,optimal,True,sequence counts,3.6956703662872314,0.0,,required,required,off,off
+A,ilp_nospread,14,optimal,True,sequence counts,5.55885648727417,0.0,,required,required,off,off
+A,ilp_nospread,15,optimal,True,sequence counts,2.561569929122925,0.0,,required,required,off,off
+A,ilp_nospread,16,optimal,True,sequence counts,2.0844268798828125,0.0,,required,required,off,off
+A,ilp_nospread,17,optimal,True,sequence counts,0.8736603260040283,0.0,,required,required,off,off
+A,ilp_nospread,18,optimal,True,sequence counts,1.8704636096954346,0.0,,required,required,off,off
+A,ilp_nospread,19,optimal,True,sequence counts,4.031950950622559,0.0,,required,required,off,off
+A,ilp_nospread,20,optimal,True,sequence counts,3.055128335952759,0.0,,required,required,off,off
+A,ilp_nospread,21,optimal,True,sequence counts,2.4535069465637207,0.0,,required,required,off,off
+A,ilp_nospread,22,optimal,True,sequence counts,2.379363536834717,0.0,,required,required,off,off
+A,ilp_nospread,23,optimal,True,sequence counts,2.1998724937438965,0.0,,required,required,off,off
+A,ilp_nospread,24,optimal,True,sequence counts,4.271483659744263,0.0,,required,required,off,off
+A,ilp_nospread,25,optimal,True,sequence counts,2.3535056114196777,0.0,,required,required,off,off
+A,ilp_nospread,26,optimal,True,sequence counts,7.467175722122192,0.0,,required,required,off,off
+A,ilp_nospread,27,optimal,True,sequence counts,2.4511618614196777,0.0,,required,required,off,off
+A,ilp_nospread,28,optimal,True,sequence counts,1.9758410453796387,0.0,,required,required,off,off
+A,ilp_nospread,29,optimal,True,sequence counts,3.410047769546509,0.0,,required,required,off,off
+A,ilp_nospread,30,optimal,True,sequence counts,2.8847496509552,0.0,,required,required,off,off
+A,ilp_nospread,31,optimal,True,sequence counts,1.4881155490875244,0.0,,required,required,off,off
+A,ilp_nospread,32,optimal,True,sequence counts,5.346410512924194,0.0,,required,required,off,off
+A,ilp_nospread,33,optimal,True,sequence counts,1.7396607398986816,0.0,,required,required,off,off
+A,ilp_nospread,34,optimal,True,sequence counts,0.6591479778289795,0.0,,required,required,off,off
+A,ilp_nospread,35,optimal,True,sequence counts,0.6629321575164795,0.0,,required,required,off,off
+A,ilp_nospread,36,optimal,True,sequence counts,0.9219353199005127,0.0,,required,required,off,off
+A,ilp_nospread,37,optimal,True,sequence counts,0.7815110683441162,0.0,,required,required,off,off
+A,ilp_nospread,38,optimal,True,sequence counts,1.6381728649139404,0.0,,required,required,off,off
+A,ilp_nospread,39,optimal,True,sequence counts,1.5557539463043213,0.0,,required,required,off,off
+A,ilp_nospread,40,optimal,True,sequence counts,1.0344395637512207,0.0,,required,required,off,off
+A,ilp_nospread,41,optimal,True,sequence counts,0.9135971069335938,0.0,,required,required,off,off
+A,ilp_nospread,42,optimal,True,sequence counts,1.1596324443817139,0.0,,required,required,off,off
+A,ilp_nospread,43,optimal,True,sequence counts,0.454897403717041,0.0,,required,required,off,off
+A,ilp_nospread,44,optimal,True,sequence counts,0.6185972690582275,0.0,,required,required,off,off
+A,ilp_nospread,45,optimal,True,sequence counts,0.873666524887085,0.0,,required,required,off,off
+A,ilp_nospread,46,optimal,True,sequence counts,0.7679665088653564,0.0,,required,required,off,off
+A,ilp_nospread,47,optimal,True,sequence counts,1.8371856212615967,0.0,,required,required,off,off
+A,ilp_nospread,48,optimal,True,sequence counts,1.730501413345337,0.0,,required,required,off,off
+A,ilp_nospread,49,optimal,True,sequence counts,0.8446872234344482,0.0,,required,required,off,off
+A,ilp_nospread,50,optimal,True,sequence counts,4.3772804737091064,0.0,,required,required,off,off
+A,ilp_nospread,51,optimal,True,sequence counts,6.903108835220337,0.0,,required,required,off,off
+A,ilp_nospread,52,optimal,True,sequence counts,0.896815299987793,0.0,,required,required,off,off
+A,ilp_nospread,53,optimal,True,sequence counts,0.4851510524749756,0.0,,required,required,off,off
+A,ilp_nospread,54,optimal,True,sequence counts,1.1261327266693115,0.0,,required,required,off,off
+A,ilp_nospread,55,optimal,True,sequence counts,1.3033075332641602,0.0,,required,required,off,off
+A,ilp_nospread,56,optimal,True,sequence counts,2.9575860500335693,0.0,,required,required,off,off
+A,ilp_nospread,57,optimal,True,sequence counts,3.9489848613739014,0.0,,required,required,off,off
+A,ilp_nospread,58,optimal,True,sequence counts,4.395916938781738,0.0,,required,required,off,off
+A,ilp_nospread,59,optimal,True,sequence counts,1.321751594543457,0.0,,required,required,off,off
+A,ilp_nospread,60,optimal,True,sequence counts,2.468130588531494,0.0,,required,required,off,off
+B,ilp,1,best found within the time limit,False,sequence counts,20.039003610610962,0.0,30.0,required,required,off,preferred
+B,ilp,2,best found within the time limit,False,sequence counts,20.02881383895874,0.0,10.0,required,required,off,preferred
+B,ilp,3,best found within the time limit,False,sequence counts,20.03901743888855,0.0,56.0,required,required,off,preferred
+B,ilp,4,best found within the time limit,False,sequence counts,20.02815890312195,0.0,8.0,required,required,off,preferred
+B,ilp,5,best found within the time limit,False,sequence counts,20.02990436553955,0.0,17.0,required,required,off,preferred
+B,ilp,6,best found within the time limit,False,sequence counts,20.025861024856567,0.0,4.0,required,required,off,preferred
+B,ilp,7,best found within the time limit,False,sequence counts,20.022892951965332,0.0,9.0,required,required,off,preferred
+B,ilp,8,best found within the time limit,False,sequence counts,20.026411294937134,0.0,24.0,required,required,off,preferred
+B,ilp,9,best found within the time limit,False,sequence counts,20.022103309631348,0.0,6.0,required,required,off,preferred
+B,ilp,10,best found within the time limit,False,sequence counts,20.026692390441895,0.0,8.0,required,required,off,preferred
+B,ilp,11,best found within the time limit,False,sequence counts,20.02353549003601,0.0,17.0,required,required,off,preferred
+B,ilp,12,best found within the time limit,False,sequence counts,20.02774453163147,0.0,10.0,required,required,off,preferred
+B,ilp,13,best found within the time limit,False,sequence counts,20.036167860031128,0.0,29.0,required,required,off,preferred
+B,ilp,14,best found within the time limit,False,sequence counts,20.05169129371643,0.0,10.0,required,required,off,preferred
+B,ilp,15,best found within the time limit,False,sequence counts,20.02097463607788,0.0,36.0,required,required,off,preferred
+B,ilp,16,best found within the time limit,False,sequence counts,20.03268527984619,0.0,31.0,required,required,off,preferred
+B,ilp,17,best found within the time limit,False,sequence counts,20.044334888458252,0.0,13.0,required,required,off,preferred
+B,ilp,18,best found within the time limit,False,sequence counts,20.03030276298523,0.0,14.0,required,required,off,preferred
+B,ilp,19,best found within the time limit,False,sequence counts,20.033946752548218,0.0,8.0,required,required,off,preferred
+B,ilp,20,best found within the time limit,False,sequence counts,20.044463872909546,0.0,8.0,required,required,off,preferred
+B,ilp,21,best found within the time limit,False,sequence counts,20.037313222885132,0.0,25.0,required,required,off,preferred
+B,ilp,22,best found within the time limit,False,sequence counts,20.022826433181763,0.0,6.0,required,required,off,preferred
+B,ilp,23,best found within the time limit,False,sequence counts,20.025701761245728,0.0,50.0,required,required,off,preferred
+B,ilp,24,best found within the time limit,False,sequence counts,20.027806520462036,0.0,8.0,required,required,off,preferred
+B,ilp,25,best found within the time limit,False,sequence counts,20.02801489830017,0.0,36.0,required,required,off,preferred
+B,ilp,26,best found within the time limit,False,sequence counts,20.030823469161987,0.0,12.0,required,required,off,preferred
+B,ilp,27,best found within the time limit,False,sequence counts,20.034700393676758,0.0,14.0,required,required,off,preferred
+B,ilp,28,best found within the time limit,False,sequence counts,20.104619026184082,0.0,17.0,required,required,off,preferred
+B,ilp,29,best found within the time limit,False,sequence counts,20.07945942878723,0.0,44.0,required,required,off,preferred
+B,ilp,30,best found within the time limit,False,sequence counts,20.02372097969055,0.0,44.0,required,required,off,preferred
+B,ilp,31,best found within the time limit,False,sequence counts,20.08525037765503,0.0,39.0,required,required,off,preferred
+B,ilp,32,best found within the time limit,False,sequence counts,20.14001226425171,0.0,16.0,required,required,off,preferred
+B,ilp,33,best found within the time limit,False,sequence counts,20.024357795715332,0.0,36.0,required,required,off,preferred
+B,ilp,34,best found within the time limit,False,sequence counts,20.092461585998535,0.0,13.0,required,required,off,preferred
+B,ilp,35,best found within the time limit,False,sequence counts,20.03406262397766,0.0,31.0,required,required,off,preferred
+B,ilp,36,best found within the time limit,False,sequence counts,20.064892292022705,0.0,29.0,required,required,off,preferred
+B,ilp,37,best found within the time limit,False,sequence counts,20.060189723968506,0.0,14.0,required,required,off,preferred
+B,ilp,38,best found within the time limit,False,sequence counts,20.170274019241333,0.0,26.0,required,required,off,preferred
+B,ilp,39,best found within the time limit,False,sequence counts,20.08796238899231,0.0,34.0,required,required,off,preferred
+B,ilp,40,best found within the time limit,False,sequence counts,20.05474829673767,0.0,34.0,required,required,off,preferred
+B,ilp,41,best found within the time limit,False,sequence counts,20.111411333084106,0.0,28.0,required,required,off,preferred
+B,ilp,42,best found within the time limit,False,sequence counts,20.038281440734863,0.0,10.0,required,required,off,preferred
+B,ilp,43,best found within the time limit,False,sequence counts,20.101668119430542,0.0,19.0,required,required,off,preferred
+B,ilp,44,best found within the time limit,False,sequence counts,20.044896364212036,0.0,17.0,required,required,off,preferred
+B,ilp,45,best found within the time limit,False,sequence counts,20.053160429000854,0.0,33.0,required,required,off,preferred
+B,ilp,46,best found within the time limit,False,sequence counts,20.051767110824585,0.0,13.0,required,required,off,preferred
+B,ilp,47,best found within the time limit,False,sequence counts,20.121572256088257,0.0,17.0,required,required,off,preferred
+B,ilp,48,best found within the time limit,False,sequence counts,20.01968288421631,0.0,6.0,required,required,off,preferred
+B,ilp,49,best found within the time limit,False,sequence counts,20.035856246948242,0.0,12.0,required,required,off,preferred
+B,ilp,50,best found within the time limit,False,sequence counts,20.021483659744263,0.0,22.0,required,required,off,preferred
+B,ilp,51,best found within the time limit,False,sequence counts,20.024879217147827,0.0,10.0,required,required,off,preferred
+B,ilp,52,best found within the time limit,False,sequence counts,20.040395259857178,0.0,12.0,required,required,off,preferred
+B,ilp,53,best found within the time limit,False,sequence counts,20.023906469345093,0.0,26.0,required,required,off,preferred
+B,ilp,54,best found within the time limit,False,sequence counts,20.027724742889404,0.0,8.0,required,required,off,preferred
+B,ilp,55,best found within the time limit,False,sequence counts,20.048511028289795,0.0,19.0,required,required,off,preferred
+B,ilp,56,best found within the time limit,False,sequence counts,20.057276010513306,0.0,6.0,required,required,off,preferred
+B,ilp,57,best found within the time limit,False,sequence counts,20.033382892608643,0.0,15.0,required,required,off,preferred
+B,ilp,58,best found within the time limit,False,sequence counts,20.030059337615967,0.0,46.0,required,required,off,preferred
+B,ilp,59,best found within the time limit,False,sequence counts,20.029451847076416,0.0,6.0,required,required,off,preferred
+B,ilp,60,best found within the time limit,False,sequence counts,20.028346300125122,0.0,9.0,required,required,off,preferred
+B,ilp_nospread,1,optimal,True,sequence counts,3.022078275680542,0.0,,required,required,off,off
+B,ilp_nospread,2,optimal,True,sequence counts,14.591535091400146,0.0,,required,required,off,off
+B,ilp_nospread,3,optimal,True,sequence counts,17.958828926086426,0.0,,required,required,off,off
+B,ilp_nospread,4,optimal,True,sequence counts,20.02157998085022,0.0,,required,required,off,off
+B,ilp_nospread,5,optimal,True,sequence counts,20.019763469696045,0.0,,required,required,off,off
+B,ilp_nospread,6,optimal,True,sequence counts,4.81001877784729,0.0,,required,required,off,off
+B,ilp_nospread,7,optimal,True,sequence counts,9.538447856903076,0.0,,required,required,off,off
+B,ilp_nospread,8,optimal,True,sequence counts,8.428201675415039,0.0,,required,required,off,off
+B,ilp_nospread,9,optimal,True,sequence counts,20.020291805267334,0.0,,required,required,off,off
+B,ilp_nospread,10,optimal,True,sequence counts,14.07509183883667,0.0,,required,required,off,off
+B,ilp_nospread,11,optimal,True,sequence counts,9.161065340042114,0.0,,required,required,off,off
+B,ilp_nospread,12,optimal,True,sequence counts,20.034696102142334,0.0,,required,required,off,off
+B,ilp_nospread,13,optimal,True,sequence counts,20.024802446365356,0.0,,required,required,off,off
+B,ilp_nospread,14,optimal,True,sequence counts,20.021463871002197,0.0,,required,required,off,off
+B,ilp_nospread,15,optimal,True,sequence counts,8.44822907447815,0.0,,required,required,off,off
+B,ilp_nospread,16,optimal,True,sequence counts,15.712639093399048,0.0,,required,required,off,off
+B,ilp_nospread,17,optimal,True,sequence counts,20.02399754524231,0.0,,required,required,off,off
+B,ilp_nospread,18,optimal,True,sequence counts,20.02297282218933,0.0,,required,required,off,off
+B,ilp_nospread,19,optimal,True,sequence counts,20.034464359283447,0.0,,required,required,off,off
+B,ilp_nospread,20,optimal,True,sequence counts,20.025051593780518,0.0,,required,required,off,off
+B,ilp_nospread,21,optimal,True,sequence counts,15.906399250030518,0.0,,required,required,off,off
+B,ilp_nospread,22,optimal,True,sequence counts,10.98150110244751,0.0,,required,required,off,off
+B,ilp_nospread,23,optimal,True,sequence counts,12.495171070098877,0.0,,required,required,off,off
+B,ilp_nospread,24,optimal,True,sequence counts,3.03655743598938,0.0,,required,required,off,off
+B,ilp_nospread,25,optimal,True,sequence counts,19.34920859336853,0.0,,required,required,off,off
+B,ilp_nospread,26,optimal,True,sequence counts,20.033077478408813,0.0,,required,required,off,off
+B,ilp_nospread,27,optimal,True,sequence counts,16.04762363433838,0.0,,required,required,off,off
+B,ilp_nospread,28,optimal,True,sequence counts,20.03240728378296,0.0,,required,required,off,off
+B,ilp_nospread,29,optimal,True,sequence counts,20.03326654434204,0.0,,required,required,off,off
+B,ilp_nospread,30,optimal,True,sequence counts,2.273874044418335,0.0,,required,required,off,off
+B,ilp_nospread,31,optimal,True,sequence counts,20.02927041053772,0.0,,required,required,off,off
+B,ilp_nospread,32,optimal,True,sequence counts,20.039035320281982,0.0,,required,required,off,off
+B,ilp_nospread,33,optimal,True,sequence counts,20.02021622657776,0.0,,required,required,off,off
+B,ilp_nospread,34,optimal,True,sequence counts,20.063605308532715,0.0,,required,required,off,off
+B,ilp_nospread,35,optimal,True,sequence counts,5.2444493770599365,0.0,,required,required,off,off
+B,ilp_nospread,36,optimal,True,sequence counts,9.474632501602173,0.0,,required,required,off,off
+B,ilp_nospread,37,optimal,True,sequence counts,20.031578540802002,0.0,,required,required,off,off
+B,ilp_nospread,38,optimal,True,sequence counts,20.041431665420532,0.0,,required,required,off,off
+B,ilp_nospread,39,optimal,True,sequence counts,20.0369713306427,0.0,,required,required,off,off
+B,ilp_nospread,40,optimal,True,sequence counts,17.264249086380005,0.0,,required,required,off,off
+B,ilp_nospread,41,optimal,True,sequence counts,20.035870790481567,0.0,,required,required,off,off
+B,ilp_nospread,42,optimal,True,sequence counts,20.028109788894653,0.0,,required,required,off,off
+B,ilp_nospread,43,optimal,True,sequence counts,20.037956476211548,0.0,,required,required,off,off
+B,ilp_nospread,44,optimal,True,sequence counts,8.842170715332031,0.0,,required,required,off,off
+B,ilp_nospread,45,optimal,True,sequence counts,20.03420615196228,0.0,,required,required,off,off
+B,ilp_nospread,46,optimal,True,sequence counts,20.051875591278076,0.0,,required,required,off,off
+B,ilp_nospread,47,optimal,True,sequence counts,20.038998126983643,0.0,,required,required,off,off
+B,ilp_nospread,48,optimal,True,sequence counts,19.485174655914307,0.0,,required,required,off,off
+B,ilp_nospread,49,optimal,True,sequence counts,14.237717866897583,0.0,,required,required,off,off
+B,ilp_nospread,50,optimal,True,sequence counts,20.02340865135193,0.0,,required,required,off,off
+B,ilp_nospread,51,optimal,True,sequence counts,20.017476558685303,0.0,,required,required,off,off
+B,ilp_nospread,52,optimal,True,sequence counts,20.025803089141846,0.0,,required,required,off,off
+B,ilp_nospread,53,optimal,True,sequence counts,6.705525875091553,0.0,,required,required,off,off
+B,ilp_nospread,54,optimal,True,sequence counts,20.034981966018677,0.0,,required,required,off,off
+B,ilp_nospread,55,optimal,True,sequence counts,14.744728326797485,0.0,,required,required,off,off
+B,ilp_nospread,56,optimal,True,sequence counts,20.022040843963623,0.0,,required,required,off,off
+B,ilp_nospread,57,optimal,True,sequence counts,15.611467838287354,0.0,,required,required,off,off
+B,ilp_nospread,58,optimal,True,sequence counts,12.866702795028687,0.0,,required,required,off,off
+B,ilp_nospread,59,optimal,True,sequence counts,12.68169903755188,0.0,,required,required,off,off
+B,ilp_nospread,60,optimal,True,sequence counts,16.184991359710693,0.0,,required,required,off,off
+C,ilp,1,optimal,True,sequence counts,1.1509346961975098,0.0,6.0,required,required,off,preferred
+C,ilp,2,optimal,True,sequence counts,0.8571982383728027,0.0,6.0,required,required,off,preferred
+C,ilp,3,optimal,True,sequence counts,0.7267587184906006,0.0,6.0,required,required,off,preferred
+C,ilp,4,optimal,True,sequence counts,1.0138931274414062,0.0,6.0,required,required,off,preferred
+C,ilp,5,optimal,True,sequence counts,0.7794699668884277,0.0,6.0,required,required,off,preferred
+C,ilp,6,optimal,True,sequence counts,0.692392110824585,0.0,6.0,required,required,off,preferred
+C,ilp,7,optimal,True,sequence counts,0.9327220916748047,0.0,6.0,required,required,off,preferred
+C,ilp,8,optimal,True,sequence counts,0.7551212310791016,0.0,6.0,required,required,off,preferred
+C,ilp,9,optimal,True,sequence counts,0.8055524826049805,0.0,6.0,required,required,off,preferred
+C,ilp,10,optimal,True,sequence counts,0.8376872539520264,0.0,6.0,required,required,off,preferred
+C,ilp,11,optimal,True,sequence counts,0.7969303131103516,0.0,6.0,required,required,off,preferred
+C,ilp,12,optimal,True,sequence counts,0.8729889392852783,0.0,6.0,required,required,off,preferred
+C,ilp,13,optimal,True,sequence counts,0.6674869060516357,0.0,6.0,required,required,off,preferred
+C,ilp,14,optimal,True,sequence counts,0.6870074272155762,0.0,6.0,required,required,off,preferred
+C,ilp,15,optimal,True,sequence counts,0.6990211009979248,0.0,6.0,required,required,off,preferred
+C,ilp,16,optimal,True,sequence counts,0.7982735633850098,0.0,6.0,required,required,off,preferred
+C,ilp,17,optimal,True,sequence counts,0.6445786952972412,0.0,6.0,required,required,off,preferred
+C,ilp,18,optimal,True,sequence counts,0.8044424057006836,0.0,6.0,required,required,off,preferred
+C,ilp,19,optimal,True,sequence counts,0.7687203884124756,0.0,6.0,required,required,off,preferred
+C,ilp,20,optimal,True,sequence counts,0.8670587539672852,0.0,6.0,required,required,off,preferred
+C,ilp,21,optimal,True,sequence counts,0.8599445819854736,0.0,6.0,required,required,off,preferred
+C,ilp,22,optimal,True,sequence counts,0.9504890441894531,0.0,6.0,required,required,off,preferred
+C,ilp,23,optimal,True,sequence counts,0.7515909671783447,0.0,6.0,required,required,off,preferred
+C,ilp,24,optimal,True,sequence counts,0.7099552154541016,0.0,6.0,required,required,off,preferred
+C,ilp,25,optimal,True,sequence counts,1.049788475036621,0.0,6.0,required,required,off,preferred
+C,ilp,26,optimal,True,sequence counts,0.9584524631500244,0.0,6.0,required,required,off,preferred
+C,ilp,27,optimal,True,sequence counts,1.0636613368988037,0.0,6.0,required,required,off,preferred
+C,ilp,28,optimal,True,sequence counts,0.8481309413909912,0.0,6.0,required,required,off,preferred
+C,ilp,29,optimal,True,sequence counts,1.4103033542633057,0.0,6.0,required,required,off,preferred
+C,ilp,30,optimal,True,sequence counts,0.9217898845672607,0.0,6.0,required,required,off,preferred
+C,ilp,31,optimal,True,sequence counts,0.8790457248687744,0.0,6.0,required,required,off,preferred
+C,ilp,32,optimal,True,sequence counts,0.6864323616027832,0.0,6.0,required,required,off,preferred
+C,ilp,33,optimal,True,sequence counts,0.32339024543762207,0.0,6.0,required,required,off,preferred
+C,ilp,34,optimal,True,sequence counts,0.5599820613861084,0.0,6.0,required,required,off,preferred
+C,ilp,35,optimal,True,sequence counts,0.7075529098510742,0.0,6.0,required,required,off,preferred
+C,ilp,36,optimal,True,sequence counts,0.8656802177429199,0.0,6.0,required,required,off,preferred
+C,ilp,37,optimal,True,sequence counts,0.8061027526855469,0.0,6.0,required,required,off,preferred
+C,ilp,38,optimal,True,sequence counts,0.5959556102752686,0.0,6.0,required,required,off,preferred
+C,ilp,39,optimal,True,sequence counts,0.5748081207275391,0.0,6.0,required,required,off,preferred
+C,ilp,40,optimal,True,sequence counts,0.5276260375976562,0.0,6.0,required,required,off,preferred
+C,ilp,41,optimal,True,sequence counts,0.48564863204956055,0.0,6.0,required,required,off,preferred
+C,ilp,42,optimal,True,sequence counts,0.547086238861084,0.0,6.0,required,required,off,preferred
+C,ilp,43,optimal,True,sequence counts,0.6057493686676025,0.0,6.0,required,required,off,preferred
+C,ilp,44,optimal,True,sequence counts,0.722205400466919,0.0,6.0,required,required,off,preferred
+C,ilp,45,optimal,True,sequence counts,0.5995097160339355,0.0,6.0,required,required,off,preferred
+C,ilp,46,optimal,True,sequence counts,0.6509413719177246,0.0,6.0,required,required,off,preferred
+C,ilp,47,optimal,True,sequence counts,0.6484029293060303,0.0,6.0,required,required,off,preferred
+C,ilp,48,optimal,True,sequence counts,0.374739408493042,0.0,6.0,required,required,off,preferred
+C,ilp,49,optimal,True,sequence counts,0.705085039138794,0.0,6.0,required,required,off,preferred
+C,ilp,50,optimal,True,sequence counts,0.7430050373077393,0.0,6.0,required,required,off,preferred
+C,ilp,51,optimal,True,sequence counts,0.6637179851531982,0.0,6.0,required,required,off,preferred
+C,ilp,52,optimal,True,sequence counts,0.820298433303833,0.0,6.0,required,required,off,preferred
+C,ilp,53,optimal,True,sequence counts,0.8129160404205322,0.0,6.0,required,required,off,preferred
+C,ilp,54,optimal,True,sequence counts,0.8942205905914307,0.0,6.0,required,required,off,preferred
+C,ilp,55,optimal,True,sequence counts,1.0144312381744385,0.0,6.0,required,required,off,preferred
+C,ilp,56,optimal,True,sequence counts,0.6572079658508301,0.0,6.0,required,required,off,preferred
+C,ilp,57,optimal,True,sequence counts,1.4094958305358887,0.0,6.0,required,required,off,preferred
+C,ilp,58,optimal,True,sequence counts,1.0633492469787598,0.0,6.0,required,required,off,preferred
+C,ilp,59,optimal,True,sequence counts,1.0506436824798584,0.0,6.0,required,required,off,preferred
+C,ilp,60,optimal,True,sequence counts,1.1593029499053955,0.0,6.0,required,required,off,preferred
+C,ilp_nospread,1,optimal,True,sequence counts,0.10108685493469238,0.0,,required,required,off,off
+C,ilp_nospread,2,optimal,True,sequence counts,0.12365007400512695,0.0,,required,required,off,off
+C,ilp_nospread,3,optimal,True,sequence counts,0.08164834976196289,0.0,,required,required,off,off
+C,ilp_nospread,4,optimal,True,sequence counts,0.08389425277709961,0.0,,required,required,off,off
+C,ilp_nospread,5,optimal,True,sequence counts,0.07451367378234863,0.0,,required,required,off,off
+C,ilp_nospread,6,optimal,True,sequence counts,0.06850528717041016,0.0,,required,required,off,off
+C,ilp_nospread,7,optimal,True,sequence counts,0.06606698036193848,0.0,,required,required,off,off
+C,ilp_nospread,8,optimal,True,sequence counts,0.0750277042388916,0.0,,required,required,off,off
+C,ilp_nospread,9,optimal,True,sequence counts,0.09084606170654297,0.0,,required,required,off,off
+C,ilp_nospread,10,optimal,True,sequence counts,0.06851315498352051,0.0,,required,required,off,off
+C,ilp_nospread,11,optimal,True,sequence counts,0.07125163078308105,0.0,,required,required,off,off
+C,ilp_nospread,12,optimal,True,sequence counts,0.06614303588867188,0.0,,required,required,off,off
+C,ilp_nospread,13,optimal,True,sequence counts,0.06610369682312012,0.0,,required,required,off,off
+C,ilp_nospread,14,optimal,True,sequence counts,0.0654749870300293,0.0,,required,required,off,off
+C,ilp_nospread,15,optimal,True,sequence counts,0.06739306449890137,0.0,,required,required,off,off
+C,ilp_nospread,16,optimal,True,sequence counts,0.06346726417541504,0.0,,required,required,off,off
+C,ilp_nospread,17,optimal,True,sequence counts,0.06499719619750977,0.0,,required,required,off,off
+C,ilp_nospread,18,optimal,True,sequence counts,0.06854653358459473,0.0,,required,required,off,off
+C,ilp_nospread,19,optimal,True,sequence counts,0.06926512718200684,0.0,,required,required,off,off
+C,ilp_nospread,20,optimal,True,sequence counts,0.06979012489318848,0.0,,required,required,off,off
+C,ilp_nospread,21,optimal,True,sequence counts,0.07827043533325195,0.0,,required,required,off,off
+C,ilp_nospread,22,optimal,True,sequence counts,0.07811880111694336,0.0,,required,required,off,off
+C,ilp_nospread,23,optimal,True,sequence counts,0.07573437690734863,0.0,,required,required,off,off
+C,ilp_nospread,24,optimal,True,sequence counts,0.08894944190979004,0.0,,required,required,off,off
+C,ilp_nospread,25,optimal,True,sequence counts,0.10006070137023926,0.0,,required,required,off,off
+C,ilp_nospread,26,optimal,True,sequence counts,0.09540152549743652,0.0,,required,required,off,off
+C,ilp_nospread,27,optimal,True,sequence counts,0.09335732460021973,0.0,,required,required,off,off
+C,ilp_nospread,28,optimal,True,sequence counts,0.09354209899902344,0.0,,required,required,off,off
+C,ilp_nospread,29,optimal,True,sequence counts,0.08267402648925781,0.0,,required,required,off,off
+C,ilp_nospread,30,optimal,True,sequence counts,0.09646415710449219,0.0,,required,required,off,off
+C,ilp_nospread,31,optimal,True,sequence counts,0.0791010856628418,0.0,,required,required,off,off
+C,ilp_nospread,32,optimal,True,sequence counts,0.08355164527893066,0.0,,required,required,off,off
+C,ilp_nospread,33,optimal,True,sequence counts,0.05075359344482422,0.0,,required,required,off,off
+C,ilp_nospread,34,optimal,True,sequence counts,0.08253765106201172,0.0,,required,required,off,off
+C,ilp_nospread,35,optimal,True,sequence counts,0.062101125717163086,0.0,,required,required,off,off
+C,ilp_nospread,36,optimal,True,sequence counts,0.07315969467163086,0.0,,required,required,off,off
+C,ilp_nospread,37,optimal,True,sequence counts,0.06221747398376465,0.0,,required,required,off,off
+C,ilp_nospread,38,optimal,True,sequence counts,0.06494855880737305,0.0,,required,required,off,off
+C,ilp_nospread,39,optimal,True,sequence counts,0.0580596923828125,0.0,,required,required,off,off
+C,ilp_nospread,40,optimal,True,sequence counts,0.050560951232910156,0.0,,required,required,off,off
+C,ilp_nospread,41,optimal,True,sequence counts,0.048873186111450195,0.0,,required,required,off,off
+C,ilp_nospread,42,optimal,True,sequence counts,0.04488015174865723,0.0,,required,required,off,off
+C,ilp_nospread,43,optimal,True,sequence counts,0.05115079879760742,0.0,,required,required,off,off
+C,ilp_nospread,44,optimal,True,sequence counts,0.06168031692504883,0.0,,required,required,off,off
+C,ilp_nospread,45,optimal,True,sequence counts,0.05403947830200195,0.0,,required,required,off,off
+C,ilp_nospread,46,optimal,True,sequence counts,0.05974769592285156,0.0,,required,required,off,off
+C,ilp_nospread,47,optimal,True,sequence counts,0.052870750427246094,0.0,,required,required,off,off
+C,ilp_nospread,48,optimal,True,sequence counts,0.07391834259033203,0.0,,required,required,off,off
+C,ilp_nospread,49,optimal,True,sequence counts,0.0740361213684082,0.0,,required,required,off,off
+C,ilp_nospread,50,optimal,True,sequence counts,0.06844854354858398,0.0,,required,required,off,off
+C,ilp_nospread,51,optimal,True,sequence counts,0.08002829551696777,0.0,,required,required,off,off
+C,ilp_nospread,52,optimal,True,sequence counts,0.07369518280029297,0.0,,required,required,off,off
+C,ilp_nospread,53,optimal,True,sequence counts,0.07852363586425781,0.0,,required,required,off,off
+C,ilp_nospread,54,optimal,True,sequence counts,0.08104872703552246,0.0,,required,required,off,off
+C,ilp_nospread,55,optimal,True,sequence counts,0.09323239326477051,0.0,,required,required,off,off
+C,ilp_nospread,56,optimal,True,sequence counts,0.09563446044921875,0.0,,required,required,off,off
+C,ilp_nospread,57,optimal,True,sequence counts,0.09915852546691895,0.0,,required,required,off,off
+C,ilp_nospread,58,optimal,True,sequence counts,0.09944033622741699,0.0,,required,required,off,off
+C,ilp_nospread,59,optimal,True,sequence counts,0.09643149375915527,0.0,,required,required,off,off
+C,ilp_nospread,60,optimal,True,sequence counts,0.10490894317626953,0.0,,required,required,off,off
+D,ilp,1,best found within the time limit,False,sequence counts,20.09369421005249,3.0,11.0,required,preferred,off,preferred
+D,ilp,2,best found within the time limit,False,sequence counts,20.06369161605835,25.0,11.0,required,preferred,off,preferred
+D,ilp,3,best found within the time limit,False,sequence counts,20.09758496284485,6.0,17.0,required,preferred,off,preferred
+D,ilp,4,best found within the time limit,False,sequence counts,20.08203911781311,10.0,19.0,required,preferred,off,preferred
+D,ilp,5,best found within the time limit,False,sequence counts,20.049833297729492,0.0,4.0,required,preferred,off,preferred
+D,ilp,6,best found within the time limit,False,sequence counts,20.044675588607788,10.0,14.0,required,preferred,off,preferred
+D,ilp,7,best found within the time limit,False,sequence counts,20.043412923812866,0.0,7.0,required,preferred,off,preferred
+D,ilp,8,best found within the time limit,False,sequence counts,20.045920372009277,12.0,22.0,required,preferred,off,preferred
+D,ilp,9,best found within the time limit,False,sequence counts,20.126272439956665,8.0,13.0,required,preferred,off,preferred
+D,ilp,10,best found within the time limit,False,sequence counts,20.05152201652527,24.0,30.0,required,preferred,off,preferred
+D,ilp,11,best found within the time limit,False,sequence counts,20.045764207839966,16.0,14.0,required,preferred,off,preferred
+D,ilp,12,best found within the time limit,False,sequence counts,20.049697637557983,2.0,15.0,required,preferred,off,preferred
+D,ilp,13,best found within the time limit,False,sequence counts,20.07686471939087,9.0,16.0,required,preferred,off,preferred
+D,ilp,14,best found within the time limit,False,sequence counts,20.21089243888855,27.0,15.0,required,preferred,off,preferred
+D,ilp,15,best found within the time limit,False,sequence counts,20.044625759124756,12.0,16.0,required,preferred,off,preferred
+D,ilp,16,best found within the time limit,False,sequence counts,20.042086362838745,9.0,14.0,required,preferred,off,preferred
+D,ilp,17,best found within the time limit,False,sequence counts,20.047828197479248,14.0,10.0,required,preferred,off,preferred
+D,ilp,18,best found within the time limit,False,sequence counts,20.098339080810547,5.0,6.0,required,preferred,off,preferred
+D,ilp,19,best found within the time limit,False,sequence counts,20.072705507278442,18.0,17.0,required,preferred,off,preferred
+D,ilp,20,best found within the time limit,False,sequence counts,20.04615306854248,0.0,16.0,required,preferred,off,preferred
+D,ilp,21,best found within the time limit,False,sequence counts,20.066853523254395,12.0,11.0,required,preferred,off,preferred
+D,ilp,22,best found within the time limit,False,sequence counts,20.0467369556427,19.0,11.0,required,preferred,off,preferred
+D,ilp,23,best found within the time limit,False,sequence counts,20.06718349456787,3.0,22.0,required,preferred,off,preferred
+D,ilp,24,best found within the time limit,False,sequence counts,20.116370916366577,4.0,14.0,required,preferred,off,preferred
+D,ilp,25,best found within the time limit,False,sequence counts,20.065678119659424,13.0,16.0,required,preferred,off,preferred
+D,ilp,26,best found within the time limit,False,sequence counts,20.083133697509766,12.0,11.0,required,preferred,off,preferred
+D,ilp,27,best found within the time limit,False,sequence counts,20.07616662979126,23.0,36.0,required,preferred,off,preferred
+D,ilp,28,best found within the time limit,False,sequence counts,20.088577270507812,12.0,8.0,required,preferred,off,preferred
+D,ilp,29,best found within the time limit,False,sequence counts,20.106338262557983,22.0,20.0,required,preferred,off,preferred
+D,ilp,30,best found within the time limit,False,sequence counts,20.072921991348267,11.0,17.0,required,preferred,off,preferred
+D,ilp,31,best found within the time limit,False,sequence counts,20.11666226387024,4.0,15.0,required,preferred,off,preferred
+D,ilp,32,best found within the time limit,False,sequence counts,20.121777296066284,7.0,15.0,required,preferred,off,preferred
+D,ilp,33,best found within the time limit,False,sequence counts,20.10487151145935,12.0,11.0,required,preferred,off,preferred
+D,ilp,34,best found within the time limit,False,sequence counts,20.507899522781372,11.0,16.0,required,preferred,off,preferred
+D,ilp,35,best found within the time limit,False,sequence counts,20.238669633865356,9.0,19.0,required,preferred,off,preferred
+D,ilp,36,best found within the time limit,False,sequence counts,20.37223744392395,12.0,18.0,required,preferred,off,preferred
+D,ilp,37,best found within the time limit,False,sequence counts,20.59395432472229,4.0,22.0,required,preferred,off,preferred
+D,ilp,38,best found within the time limit,False,sequence counts,20.11986541748047,13.0,22.0,required,preferred,off,preferred
+D,ilp,39,best found within the time limit,False,sequence counts,20.638521671295166,8.0,13.0,required,preferred,off,preferred
+D,ilp,40,best found within the time limit,False,sequence counts,21.314441204071045,30.0,13.0,required,preferred,off,preferred
+D,ilp,41,best found within the time limit,False,sequence counts,20.667278289794922,22.0,17.0,required,preferred,off,preferred
+D,ilp,42,best found within the time limit,False,sequence counts,20.88699221611023,20.0,16.0,required,preferred,off,preferred
+D,ilp,43,best found within the time limit,False,sequence counts,20.537634134292603,5.0,11.0,required,preferred,off,preferred
+D,ilp,44,best found within the time limit,False,sequence counts,20.1455500125885,25.0,22.0,required,preferred,off,preferred
+D,ilp,45,best found within the time limit,False,sequence counts,21.3504478931427,21.0,23.0,required,preferred,off,preferred
+D,ilp,46,best found within the time limit,False,sequence counts,20.891998052597046,7.0,12.0,required,preferred,off,preferred
+D,ilp,47,best found within the time limit,False,sequence counts,20.09946060180664,10.0,12.0,required,preferred,off,preferred
+D,ilp,48,best found within the time limit,False,sequence counts,20.041954040527344,9.0,13.0,required,preferred,off,preferred
+D,ilp,49,best found within the time limit,False,sequence counts,20.047900199890137,5.0,14.0,required,preferred,off,preferred
+D,ilp,50,best found within the time limit,False,sequence counts,20.050830841064453,8.0,19.0,required,preferred,off,preferred
+D,ilp,51,best found within the time limit,False,sequence counts,20.04452347755432,10.0,17.0,required,preferred,off,preferred
+D,ilp,52,best found within the time limit,False,sequence counts,20.048844814300537,9.0,14.0,required,preferred,off,preferred
+D,ilp,53,best found within the time limit,False,sequence counts,20.06957721710205,13.0,17.0,required,preferred,off,preferred
+D,ilp,54,best found within the time limit,False,sequence counts,20.058512449264526,13.0,18.0,required,preferred,off,preferred
+D,ilp,55,best found within the time limit,False,sequence counts,20.064826726913452,22.0,11.0,required,preferred,off,preferred
+D,ilp,56,best found within the time limit,False,sequence counts,20.076963424682617,20.0,23.0,required,preferred,off,preferred
+D,ilp,57,best found within the time limit,False,sequence counts,20.11767292022705,14.0,18.0,required,preferred,off,preferred
+D,ilp,58,best found within the time limit,False,sequence counts,20.092735052108765,11.0,14.0,required,preferred,off,preferred
+D,ilp,59,best found within the time limit,False,sequence counts,20.06742525100708,7.0,17.0,required,preferred,off,preferred
+D,ilp,60,best found within the time limit,False,sequence counts,20.051063299179077,7.0,8.0,required,preferred,off,preferred
+D,ilp_nospread,1,optimal,True,sequence counts,20.048341035842896,0.0,,required,preferred,off,off
+D,ilp_nospread,2,best found within the time limit,False,sequence counts,20.043030977249146,4.0,,required,preferred,off,off
+D,ilp_nospread,3,best found within the time limit,False,sequence counts,20.03369164466858,8.0,,required,preferred,off,off
+D,ilp_nospread,4,optimal,True,sequence counts,20.03430962562561,0.0,,required,preferred,off,off
+D,ilp_nospread,5,best found within the time limit,False,sequence counts,20.037673711776733,12.0,,required,preferred,off,off
+D,ilp_nospread,6,optimal,True,sequence counts,20.053473711013794,0.0,,required,preferred,off,off
+D,ilp_nospread,7,best found within the time limit,False,sequence counts,20.033167600631714,19.0,,required,preferred,off,off
+D,ilp_nospread,8,best found within the time limit,False,sequence counts,20.03472399711609,7.0,,required,preferred,off,off
+D,ilp_nospread,9,optimal,True,sequence counts,20.048380851745605,0.0,,required,preferred,off,off
+D,ilp_nospread,10,optimal,True,sequence counts,20.039909839630127,0.0,,required,preferred,off,off
+D,ilp_nospread,11,best found within the time limit,False,sequence counts,20.035616874694824,14.0,,required,preferred,off,off
+D,ilp_nospread,12,best found within the time limit,False,sequence counts,20.03373694419861,5.0,,required,preferred,off,off
+D,ilp_nospread,13,optimal,True,sequence counts,20.03402304649353,0.0,,required,preferred,off,off
+D,ilp_nospread,14,best found within the time limit,False,sequence counts,20.028761625289917,16.0,,required,preferred,off,off
+D,ilp_nospread,15,best found within the time limit,False,sequence counts,20.034736156463623,6.0,,required,preferred,off,off
+D,ilp_nospread,16,best found within the time limit,False,sequence counts,20.03032398223877,11.0,,required,preferred,off,off
+D,ilp_nospread,17,best found within the time limit,False,sequence counts,20.032003164291382,1.0,,required,preferred,off,off
+D,ilp_nospread,18,best found within the time limit,False,sequence counts,20.05340313911438,1.0,,required,preferred,off,off
+D,ilp_nospread,19,optimal,True,sequence counts,20.04969334602356,0.0,,required,preferred,off,off
+D,ilp_nospread,20,best found within the time limit,False,sequence counts,20.05473828315735,9.0,,required,preferred,off,off
+D,ilp_nospread,21,best found within the time limit,False,sequence counts,20.03518319129944,15.0,,required,preferred,off,off
+D,ilp_nospread,22,best found within the time limit,False,sequence counts,20.079023122787476,5.0,,required,preferred,off,off
+D,ilp_nospread,23,best found within the time limit,False,sequence counts,20.05037021636963,3.0,,required,preferred,off,off
+D,ilp_nospread,24,best found within the time limit,False,sequence counts,20.041965007781982,6.0,,required,preferred,off,off
+D,ilp_nospread,25,best found within the time limit,False,sequence counts,20.0676748752594,5.0,,required,preferred,off,off
+D,ilp_nospread,26,best found within the time limit,False,sequence counts,20.057964324951172,3.0,,required,preferred,off,off
+D,ilp_nospread,27,optimal,True,sequence counts,20.067482709884644,0.0,,required,preferred,off,off
+D,ilp_nospread,28,best found within the time limit,False,sequence counts,20.068607330322266,2.0,,required,preferred,off,off
+D,ilp_nospread,29,best found within the time limit,False,sequence counts,20.079243421554565,6.0,,required,preferred,off,off
+D,ilp_nospread,30,best found within the time limit,False,sequence counts,20.037251710891724,5.0,,required,preferred,off,off
+D,ilp_nospread,31,best found within the time limit,False,sequence counts,20.090741634368896,25.0,,required,preferred,off,off
+D,ilp_nospread,32,best found within the time limit,False,sequence counts,20.07238459587097,7.0,,required,preferred,off,off
+D,ilp_nospread,33,best found within the time limit,False,sequence counts,20.082345962524414,28.0,,required,preferred,off,off
+D,ilp_nospread,34,best found within the time limit,False,sequence counts,20.075610399246216,24.0,,required,preferred,off,off
+D,ilp_nospread,35,optimal,True,sequence counts,20.059364557266235,0.0,,required,preferred,off,off
+D,ilp_nospread,36,best found within the time limit,False,sequence counts,20.12767457962036,15.0,,required,preferred,off,off
+D,ilp_nospread,37,best found within the time limit,False,sequence counts,20.084115982055664,12.0,,required,preferred,off,off
+D,ilp_nospread,38,best found within the time limit,False,sequence counts,20.079777479171753,10.0,,required,preferred,off,off
+D,ilp_nospread,39,best found within the time limit,False,sequence counts,20.148226261138916,30.0,,required,preferred,off,off
+D,ilp_nospread,40,best found within the time limit,False,sequence counts,20.317829370498657,2.0,,required,preferred,off,off
+D,ilp_nospread,41,best found within the time limit,False,sequence counts,20.087160348892212,4.0,,required,preferred,off,off
+D,ilp_nospread,42,best found within the time limit,False,sequence counts,20.07004714012146,4.0,,required,preferred,off,off
+D,ilp_nospread,43,best found within the time limit,False,sequence counts,20.104660749435425,5.0,,required,preferred,off,off
+D,ilp_nospread,44,best found within the time limit,False,sequence counts,20.08092761039734,5.0,,required,preferred,off,off
+D,ilp_nospread,45,best found within the time limit,False,sequence counts,20.09561800956726,26.0,,required,preferred,off,off
+D,ilp_nospread,46,best found within the time limit,False,sequence counts,20.072835445404053,24.0,,required,preferred,off,off
+D,ilp_nospread,47,best found within the time limit,False,sequence counts,20.06462335586548,8.0,,required,preferred,off,off
+D,ilp_nospread,48,best found within the time limit,False,sequence counts,20.032268285751343,2.0,,required,preferred,off,off
+D,ilp_nospread,49,best found within the time limit,False,sequence counts,20.038377046585083,3.0,,required,preferred,off,off
+D,ilp_nospread,50,best found within the time limit,False,sequence counts,20.046748399734497,7.0,,required,preferred,off,off
+D,ilp_nospread,51,best found within the time limit,False,sequence counts,20.033443450927734,2.0,,required,preferred,off,off
+D,ilp_nospread,52,optimal,True,sequence counts,20.03416657447815,0.0,,required,preferred,off,off
+D,ilp_nospread,53,best found within the time limit,False,sequence counts,20.035303354263306,20.0,,required,preferred,off,off
+D,ilp_nospread,54,optimal,True,sequence counts,20.042020320892334,0.0,,required,preferred,off,off
+D,ilp_nospread,55,optimal,True,sequence counts,20.043325901031494,0.0,,required,preferred,off,off
+D,ilp_nospread,56,best found within the time limit,False,sequence counts,20.050703287124634,20.0,,required,preferred,off,off
+D,ilp_nospread,57,best found within the time limit,False,sequence counts,20.047854900360107,5.0,,required,preferred,off,off
+D,ilp_nospread,58,best found within the time limit,False,sequence counts,20.07699990272522,3.0,,required,preferred,off,off
+D,ilp_nospread,59,best found within the time limit,False,sequence counts,20.083062171936035,2.0,,required,preferred,off,off
+D,ilp_nospread,60,best found within the time limit,False,sequence counts,20.035548448562622,12.0,,required,preferred,off,off
+E,ilp,1,optimal,True,sequence counts,0.08244919776916504,6.0,0.0,required,preferred,off,preferred
+E,ilp,2,optimal,True,sequence counts,0.08154296875,6.0,0.0,required,preferred,off,preferred
+E,ilp,3,optimal,True,sequence counts,0.05654549598693848,6.0,0.0,required,preferred,off,preferred
+E,ilp,4,optimal,True,sequence counts,0.06729960441589355,6.0,0.0,required,preferred,off,preferred
+E,ilp,5,optimal,True,sequence counts,0.050650835037231445,6.0,0.0,required,preferred,off,preferred
+E,ilp,6,optimal,True,sequence counts,0.06601619720458984,6.0,0.0,required,preferred,off,preferred
+E,ilp,7,optimal,True,sequence counts,0.04779052734375,6.0,0.0,required,preferred,off,preferred
+E,ilp,8,optimal,True,sequence counts,0.06581974029541016,6.0,0.0,required,preferred,off,preferred
+E,ilp,9,optimal,True,sequence counts,0.05693769454956055,6.0,0.0,required,preferred,off,preferred
+E,ilp,10,optimal,True,sequence counts,0.05800437927246094,6.0,0.0,required,preferred,off,preferred
+E,ilp,11,optimal,True,sequence counts,0.04961800575256348,6.0,0.0,required,preferred,off,preferred
+E,ilp,12,optimal,True,sequence counts,0.05832982063293457,6.0,0.0,required,preferred,off,preferred
+E,ilp,13,optimal,True,sequence counts,0.044062137603759766,6.0,0.0,required,preferred,off,preferred
+E,ilp,14,optimal,True,sequence counts,0.05152535438537598,6.0,0.0,required,preferred,off,preferred
+E,ilp,15,optimal,True,sequence counts,0.04912209510803223,6.0,0.0,required,preferred,off,preferred
+E,ilp,16,optimal,True,sequence counts,0.05311918258666992,6.0,0.0,required,preferred,off,preferred
+E,ilp,17,optimal,True,sequence counts,0.0449678897857666,6.0,0.0,required,preferred,off,preferred
+E,ilp,18,optimal,True,sequence counts,0.04908275604248047,6.0,0.0,required,preferred,off,preferred
+E,ilp,19,optimal,True,sequence counts,0.04507875442504883,6.0,0.0,required,preferred,off,preferred
+E,ilp,20,optimal,True,sequence counts,0.04990053176879883,6.0,0.0,required,preferred,off,preferred
+E,ilp,21,optimal,True,sequence counts,0.06641054153442383,6.0,0.0,required,preferred,off,preferred
+E,ilp,22,optimal,True,sequence counts,0.05429792404174805,6.0,0.0,required,preferred,off,preferred
+E,ilp,23,optimal,True,sequence counts,0.06753921508789062,6.0,0.0,required,preferred,off,preferred
+E,ilp,24,optimal,True,sequence counts,0.062055110931396484,6.0,0.0,required,preferred,off,preferred
+E,ilp,25,optimal,True,sequence counts,0.06452608108520508,6.0,0.0,required,preferred,off,preferred
+E,ilp,26,optimal,True,sequence counts,0.08656859397888184,6.0,0.0,required,preferred,off,preferred
+E,ilp,27,optimal,True,sequence counts,0.07451438903808594,6.0,0.0,required,preferred,off,preferred
+E,ilp,28,optimal,True,sequence counts,0.08326554298400879,6.0,0.0,required,preferred,off,preferred
+E,ilp,29,optimal,True,sequence counts,0.07021141052246094,6.0,0.0,required,preferred,off,preferred
+E,ilp,30,optimal,True,sequence counts,0.06821250915527344,6.0,0.0,required,preferred,off,preferred
+E,ilp,31,optimal,True,sequence counts,0.07668352127075195,6.0,0.0,required,preferred,off,preferred
+E,ilp,32,optimal,True,sequence counts,0.03752756118774414,6.0,0.0,required,preferred,off,preferred
+E,ilp,33,optimal,True,sequence counts,0.03935837745666504,6.0,0.0,required,preferred,off,preferred
+E,ilp,34,optimal,True,sequence counts,0.0556948184967041,6.0,0.0,required,preferred,off,preferred
+E,ilp,35,optimal,True,sequence counts,0.04738736152648926,6.0,0.0,required,preferred,off,preferred
+E,ilp,36,optimal,True,sequence counts,0.04604482650756836,6.0,0.0,required,preferred,off,preferred
+E,ilp,37,optimal,True,sequence counts,0.044951677322387695,6.0,0.0,required,preferred,off,preferred
+E,ilp,38,optimal,True,sequence counts,0.04093146324157715,6.0,0.0,required,preferred,off,preferred
+E,ilp,39,optimal,True,sequence counts,0.0379176139831543,6.0,0.0,required,preferred,off,preferred
+E,ilp,40,optimal,True,sequence counts,0.03428506851196289,6.0,0.0,required,preferred,off,preferred
+E,ilp,41,optimal,True,sequence counts,0.03462529182434082,6.0,0.0,required,preferred,off,preferred
+E,ilp,42,optimal,True,sequence counts,0.03299546241760254,6.0,0.0,required,preferred,off,preferred
+E,ilp,43,optimal,True,sequence counts,0.03358817100524902,6.0,0.0,required,preferred,off,preferred
+E,ilp,44,optimal,True,sequence counts,0.04063582420349121,6.0,0.0,required,preferred,off,preferred
+E,ilp,45,optimal,True,sequence counts,0.03763127326965332,6.0,0.0,required,preferred,off,preferred
+E,ilp,46,optimal,True,sequence counts,0.03845858573913574,6.0,0.0,required,preferred,off,preferred
+E,ilp,47,optimal,True,sequence counts,0.04023313522338867,6.0,0.0,required,preferred,off,preferred
+E,ilp,48,optimal,True,sequence counts,0.06204104423522949,6.0,0.0,required,preferred,off,preferred
+E,ilp,49,optimal,True,sequence counts,0.06652069091796875,6.0,0.0,required,preferred,off,preferred
+E,ilp,50,optimal,True,sequence counts,0.05324220657348633,6.0,0.0,required,preferred,off,preferred
+E,ilp,51,optimal,True,sequence counts,0.04868674278259277,6.0,0.0,required,preferred,off,preferred
+E,ilp,52,optimal,True,sequence counts,0.0670022964477539,6.0,0.0,required,preferred,off,preferred
+E,ilp,53,optimal,True,sequence counts,0.05501723289489746,6.0,0.0,required,preferred,off,preferred
+E,ilp,54,optimal,True,sequence counts,0.07208251953125,6.0,0.0,required,preferred,off,preferred
+E,ilp,55,optimal,True,sequence counts,0.07721853256225586,6.0,0.0,required,preferred,off,preferred
+E,ilp,56,optimal,True,sequence counts,0.05851125717163086,6.0,0.0,required,preferred,off,preferred
+E,ilp,57,optimal,True,sequence counts,0.06802797317504883,6.0,0.0,required,preferred,off,preferred
+E,ilp,58,optimal,True,sequence counts,0.05596613883972168,6.0,0.0,required,preferred,off,preferred
+E,ilp,59,optimal,True,sequence counts,0.08304429054260254,6.0,0.0,required,preferred,off,preferred
+E,ilp,60,optimal,True,sequence counts,0.07751703262329102,6.0,0.0,required,preferred,off,preferred
+E,ilp_nospread,1,optimal,True,sequence counts,0.09353780746459961,6.0,,required,preferred,off,off
+E,ilp_nospread,2,optimal,True,sequence counts,0.0666055679321289,6.0,,required,preferred,off,off
+E,ilp_nospread,3,optimal,True,sequence counts,0.0465087890625,6.0,,required,preferred,off,off
+E,ilp_nospread,4,optimal,True,sequence counts,0.06503820419311523,6.0,,required,preferred,off,off
+E,ilp_nospread,5,optimal,True,sequence counts,0.0595090389251709,6.0,,required,preferred,off,off
+E,ilp_nospread,6,optimal,True,sequence counts,0.06852197647094727,6.0,,required,preferred,off,off
+E,ilp_nospread,7,optimal,True,sequence counts,0.051895856857299805,6.0,,required,preferred,off,off
+E,ilp_nospread,8,optimal,True,sequence counts,0.0654747486114502,6.0,,required,preferred,off,off
+E,ilp_nospread,9,optimal,True,sequence counts,0.06953787803649902,6.0,,required,preferred,off,off
+E,ilp_nospread,10,optimal,True,sequence counts,0.06005525588989258,6.0,,required,preferred,off,off
+E,ilp_nospread,11,optimal,True,sequence counts,0.04928302764892578,6.0,,required,preferred,off,off
+E,ilp_nospread,12,optimal,True,sequence counts,0.060219764709472656,6.0,,required,preferred,off,off
+E,ilp_nospread,13,optimal,True,sequence counts,0.05817008018493652,6.0,,required,preferred,off,off
+E,ilp_nospread,14,optimal,True,sequence counts,0.04935169219970703,6.0,,required,preferred,off,off
+E,ilp_nospread,15,optimal,True,sequence counts,0.04300260543823242,6.0,,required,preferred,off,off
+E,ilp_nospread,16,optimal,True,sequence counts,0.05999279022216797,6.0,,required,preferred,off,off
+E,ilp_nospread,17,optimal,True,sequence counts,0.050531864166259766,6.0,,required,preferred,off,off
+E,ilp_nospread,18,optimal,True,sequence counts,0.04791903495788574,6.0,,required,preferred,off,off
+E,ilp_nospread,19,optimal,True,sequence counts,0.049662113189697266,6.0,,required,preferred,off,off
+E,ilp_nospread,20,optimal,True,sequence counts,0.05265402793884277,6.0,,required,preferred,off,off
+E,ilp_nospread,21,optimal,True,sequence counts,0.0687246322631836,6.0,,required,preferred,off,off
+E,ilp_nospread,22,optimal,True,sequence counts,0.05504202842712402,6.0,,required,preferred,off,off
+E,ilp_nospread,23,optimal,True,sequence counts,0.0732259750366211,6.0,,required,preferred,off,off
+E,ilp_nospread,24,optimal,True,sequence counts,0.06912660598754883,6.0,,required,preferred,off,off
+E,ilp_nospread,25,optimal,True,sequence counts,0.06427216529846191,6.0,,required,preferred,off,off
+E,ilp_nospread,26,optimal,True,sequence counts,0.07953691482543945,6.0,,required,preferred,off,off
+E,ilp_nospread,27,optimal,True,sequence counts,0.05361199378967285,6.0,,required,preferred,off,off
+E,ilp_nospread,28,optimal,True,sequence counts,0.06360912322998047,6.0,,required,preferred,off,off
+E,ilp_nospread,29,optimal,True,sequence counts,0.09419012069702148,6.0,,required,preferred,off,off
+E,ilp_nospread,30,optimal,True,sequence counts,0.06353926658630371,6.0,,required,preferred,off,off
+E,ilp_nospread,31,optimal,True,sequence counts,0.06297612190246582,6.0,,required,preferred,off,off
+E,ilp_nospread,32,optimal,True,sequence counts,0.03508710861206055,6.0,,required,preferred,off,off
+E,ilp_nospread,33,optimal,True,sequence counts,0.03807711601257324,6.0,,required,preferred,off,off
+E,ilp_nospread,34,optimal,True,sequence counts,0.05620169639587402,6.0,,required,preferred,off,off
+E,ilp_nospread,35,optimal,True,sequence counts,0.050251007080078125,6.0,,required,preferred,off,off
+E,ilp_nospread,36,optimal,True,sequence counts,0.05441427230834961,6.0,,required,preferred,off,off
+E,ilp_nospread,37,optimal,True,sequence counts,0.05353569984436035,6.0,,required,preferred,off,off
+E,ilp_nospread,38,optimal,True,sequence counts,0.036606550216674805,6.0,,required,preferred,off,off
+E,ilp_nospread,39,optimal,True,sequence counts,0.03595256805419922,6.0,,required,preferred,off,off
+E,ilp_nospread,40,optimal,True,sequence counts,0.045525550842285156,6.0,,required,preferred,off,off
+E,ilp_nospread,41,optimal,True,sequence counts,0.040589094161987305,6.0,,required,preferred,off,off
+E,ilp_nospread,42,optimal,True,sequence counts,0.0315706729888916,6.0,,required,preferred,off,off
+E,ilp_nospread,43,optimal,True,sequence counts,0.03302192687988281,6.0,,required,preferred,off,off
+E,ilp_nospread,44,optimal,True,sequence counts,0.045363664627075195,6.0,,required,preferred,off,off
+E,ilp_nospread,45,optimal,True,sequence counts,0.03661680221557617,6.0,,required,preferred,off,off
+E,ilp_nospread,46,optimal,True,sequence counts,0.04252004623413086,6.0,,required,preferred,off,off
+E,ilp_nospread,47,optimal,True,sequence counts,0.03766751289367676,6.0,,required,preferred,off,off
+E,ilp_nospread,48,optimal,True,sequence counts,0.06607747077941895,6.0,,required,preferred,off,off
+E,ilp_nospread,49,optimal,True,sequence counts,0.0700993537902832,6.0,,required,preferred,off,off
+E,ilp_nospread,50,optimal,True,sequence counts,0.04979896545410156,6.0,,required,preferred,off,off
+E,ilp_nospread,51,optimal,True,sequence counts,0.05036735534667969,6.0,,required,preferred,off,off
+E,ilp_nospread,52,optimal,True,sequence counts,0.07351994514465332,6.0,,required,preferred,off,off
+E,ilp_nospread,53,optimal,True,sequence counts,0.059513092041015625,6.0,,required,preferred,off,off
+E,ilp_nospread,54,optimal,True,sequence counts,0.07281947135925293,6.0,,required,preferred,off,off
+E,ilp_nospread,55,optimal,True,sequence counts,0.08605194091796875,6.0,,required,preferred,off,off
+E,ilp_nospread,56,optimal,True,sequence counts,0.06855511665344238,6.0,,required,preferred,off,off
+E,ilp_nospread,57,optimal,True,sequence counts,0.07091879844665527,6.0,,required,preferred,off,off
+E,ilp_nospread,58,optimal,True,sequence counts,0.06900429725646973,6.0,,required,preferred,off,off
+E,ilp_nospread,59,optimal,True,sequence counts,0.08311748504638672,6.0,,required,preferred,off,off
+E,ilp_nospread,60,optimal,True,sequence counts,0.08640766143798828,6.0,,required,preferred,off,off

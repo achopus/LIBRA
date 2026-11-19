@@ -1,0 +1,25 @@
+seed,variant,range_site1,range_site2,worst_range,proven,eff_M2,eff_M1
+1,no evenness tier,2,2,2,True,0.8609491688749705,1.0
+2,no evenness tier,3,3,3,True,0.8609491688749699,1.0
+3,no evenness tier,3,3,3,True,0.8609491688749698,1.0
+4,no evenness tier,3,3,3,True,0.8609491688749702,1.0
+5,no evenness tier,2,2,2,True,0.8609491688749696,1.0
+6,no evenness tier,2,2,2,True,0.8609491688749704,1.0
+7,no evenness tier,2,2,2,True,0.8609491688749702,1.0
+8,no evenness tier,2,2,2,True,0.8609491688749709,1.0
+9,no evenness tier,3,3,3,True,0.8609491688749706,1.0
+10,no evenness tier,3,3,3,True,0.8609491688749701,1.0
+11,no evenness tier,2,2,2,True,0.8609491688749698,1.0
+12,no evenness tier,3,3,3,True,0.8609491688749689,1.0
+13,no evenness tier,2,2,2,True,0.8609491688749702,1.0
+14,no evenness tier,2,2,2,True,0.8609491688749712,1.0
+15,no evenness tier,3,3,3,True,0.8609491688749692,1.0
+16,no evenness tier,3,3,3,True,0.8609491688749701,1.0
+17,no evenness tier,2,2,2,True,0.8609491688749701,1.0
+18,no evenness tier,2,2,2,True,0.8609491688749705,1.0
+19,no evenness tier,2,2,2,True,0.8609491688749701,1.0
+20,no evenness tier,2,2,2,True,0.8609491688749699,1.0
+21,no evenness tier,2,2,2,True,0.8609491688749706,1.0
+22,no evenness tier,3,3,3,True,0.8609491688749696,1.0
+23,no evenness tier,2,2,2,True,0.8609491688749694,1.0
+24,no evenness tier,2,2,2,True,0.8609491688749709,1.0

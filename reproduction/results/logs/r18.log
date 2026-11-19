@@ -1,0 +1,357 @@
+# r18_latex_tables.py  started 2026-11-03 11:23:21
+--- TAB_BALANCE
+\multirow{10}{*}{\shortstack[l]{Carry-over range,\\ worst stratum}} & Simple randomization     & 5.59 (1.20) & 8.35 (1.74) & 5.74 (1.38) & 6.66 (1.21) & 3.89 (1.45) \\
+ & Random Latin squares     & 5.50 (1.72) & 8.55 (2.42) & 5.42 (2.02) & 6.62 (1.38) & 2.98 (1.72) \\
+ & Williams squares         & 2.00 (0.00) & 3.90 (0.44) & 0.00 (0.00) & 1.96 (0.20) & 2.00 (0.00) \\
+ & Williams squares, best of 500 & 2.00 (0.00) & 2.00 (0.00) & 0.00 (0.00) & 1.07 (0.26) & 2.00 (0.00) \\
+ & Rerandomization          & 4.07 (0.87) & 6.14 (1.12) & 3.83 (0.87) & 5.25 (0.82) & 2.00 (0.00) \\
+ & Best classical design    & 0.00 (0.00) & 0.00 (0.00) & -- & -- & -- \\
+ & Annealing, random start  & 4.50 (1.33) & 6.58 (1.25) & 4.27 (1.46) & 3.62 (0.64) & 2.00 (0.00) \\
+ & Annealing, Williams start & 0.83 (0.99) & 1.27 (0.97) & 0.00 (0.00) & 2.38 (0.74) & 2.00 (0.00) \\
+ & LIBRA without spread     & 0.00 (0.00) & 0.00 (0.00) & 0.00 (0.00) & 1.00 (0.00) & 2.00 (0.00) \\
+ & LIBRA                    & 0.00 (0.00) & 0.00 (0.00) & 0.00 (0.00) & 1.00 (0.00) & 2.00 (0.00) \\
+\midrule
+\multirow{10}{*}{\shortstack[l]{Period\\ imbalance}} & Simple randomization     & 30.2 (5.3) & 103.7 (15.8) & 51.6 (9.5) & 66.3 (11.7) & 9.8 (3.9) \\
+ & Random Latin squares     & 0.0 (0.0) & 0.0 (0.0) & 0.0 (0.0) & 4.0 (1.5) & 0.0 (0.0) \\
+ & Williams squares         & 0.0 (0.0) & 0.0 (0.0) & 0.0 (0.0) & 3.9 (1.6) & 0.0 (0.0) \\
+ & Williams squares, best of 500 & 0.0 (0.0) & 0.0 (0.0) & 0.0 (0.0) & 0.2 (0.6) & 0.0 (0.0) \\
+ & Rerandomization          & 19.1 (2.9) & 75.1 (8.5) & 31.0 (5.8) & 44.4 (6.7) & 3.6 (1.2) \\
+ & Best classical design    & 0.0 (0.0) & 0.0 (0.0) & -- & -- & -- \\
+ & Annealing, random start  & 0.0 (0.0) & 2.7 (5.2) & 0.6 (2.6) & 0.0 (0.0) & 0.0 (0.0) \\
+ & Annealing, Williams start & 0.0 (0.0) & 0.0 (0.0) & 0.0 (0.0) & 0.0 (0.0) & 0.0 (0.0) \\
+ & LIBRA without spread     & 0.0 (0.0) & 0.0 (0.0) & 0.0 (0.0) & 0.0 (0.0) & 0.0 (0.0) \\
+ & LIBRA                    & 0.0 (0.0) & 0.0 (0.0) & 0.0 (0.0) & 0.0 (0.0) & 0.0 (0.0) \\
+\midrule
+\multirow{10}{*}{\shortstack[l]{Spread\\ deviation}} & Simple randomization     & 17.0 (3.1) & 73.5 (10.3) & 27.8 (6.9) & 40.6 (6.9) & 5.3 (3.3) \\
+ & Random Latin squares     & 14.1 (3.4) & 59.2 (11.0) & 19.4 (9.0) & 30.0 (5.9) & 2.9 (5.2) \\
+ & Williams squares         & 10.1 (5.3) & 43.6 (16.3) & 20.0 (12.1) & 29.6 (8.0) & 0.0 (0.0) \\
+ & Williams squares, best of 500 & 0.0 (0.0) & 8.9 (5.8) & 6.0 (0.0) & 28.9 (7.6) & 0.0 (0.0) \\
+ & Rerandomization          & 11.9 (2.5) & 54.8 (7.5) & 14.9 (5.3) & 29.9 (5.1) & 0.0 (0.0) \\
+ & Best classical design    & 9.0 (0.0) & 41.1 (6.6) & -- & -- & -- \\
+ & Annealing, random start  & 9.7 (3.1) & 39.8 (9.1) & 9.5 (5.8) & 17.3 (4.6) & 0.0 (0.0) \\
+ & Annealing, Williams start & 5.6 (2.5) & 28.2 (7.5) & 22.5 (15.1) & 22.6 (7.7) & 0.0 (0.0) \\
+ & LIBRA without spread     & 7.9 (3.4) & 31.9 (10.0) & 14.3 (7.4) & 19.0 (3.9) & 0.0 (0.0) \\
+ & LIBRA                    & 1.0 (0.0) & 10.9 (4.7) & 6.0 (0.0) & 13.1 (5.7) & 0.0 (0.0) \\
+
+--- TAB_PRED
+\multirow{11}{*}{\shortstack[l]{G2: this period\\ change's table}} & Simple randomization     & .559 (.079) & .471 (.058) & .580 (.069) & .504 (.061) \\
+ & Random Latin squares     & .568 (.112) & .472 (.062) & .593 (.085) & .505 (.075) \\
+ & Williams squares         & .502 (.089) & .432 (.048) & .588 (.087) & .501 (.071) \\
+ & Williams squares, best of 500 & .333 (.000) & .335 (.011) & .500 (.000) & .512 (.077) \\
+ & Rerandomization          & .503 (.069) & .440 (.045) & .522 (.064) & .479 (.060) \\
+ & Best classical design    & .467 (.000) & .418 (.039) & -- & -- \\
+ & Annealing, random start  & .497 (.094) & .423 (.051) & .527 (.056) & .449 (.069) \\
+ & Annealing, Williams start & .407 (.076) & .398 (.038) & .602 (.117) & .477 (.078) \\
+ & LIBRA without spread     & .456 (.085) & .402 (.043) & .565 (.066) & .468 (.069) \\
+ & LIBRA                    & .359 (.033) & .356 (.027) & .500 (.000) & .423 (.069) \\
+ & \emph{Attainable floor} & \emph{.333} & \emph{.333} & \emph{.500} & \emph{.300} \\
+\midrule
+\multirow{11}{*}{\shortstack[l]{G3: full list,\\ strata pooled}} & Simple randomization     & .814 (.077) & .721 (.057) & .806 (.071) & .813 (.064) \\
+ & Random Latin squares     & .852 (.090) & .732 (.064) & .816 (.092) & .838 (.071) \\
+ & Williams squares         & .901 (.058) & .734 (.070) & .822 (.091) & .839 (.059) \\
+ & Williams squares, best of 500 & 1.000 (.000) & .769 (.098) & .688 (.000) & .879 (.056) \\
+ & Rerandomization          & .856 (.073) & .713 (.054) & .799 (.076) & .835 (.061) \\
+ & Best classical design    & .867 (.000) & .713 (.051) & -- & -- \\
+ & Annealing, random start  & .870 (.080) & .716 (.059) & .821 (.077) & .874 (.066) \\
+ & Annealing, Williams start & .938 (.070) & .739 (.056) & .828 (.101) & .854 (.076) \\
+ & LIBRA without spread     & .913 (.064) & .741 (.056) & .802 (.090) & .869 (.064) \\
+ & LIBRA                    & .974 (.033) & .738 (.062) & .688 (.000) & .907 (.062) \\
+ & \emph{Chance} & \emph{.333} & \emph{.333} & \emph{.500} & \emph{.250} \\
+\midrule
+\multirow{10}{*}{\shortstack[l]{G3: full list,\\ stratum known}} & Simple randomization     & .814 (.077) & .825 (.050) & .876 (.064) & .901 (.056) \\
+ & Random Latin squares     & .852 (.090) & .852 (.062) & .923 (.082) & .942 (.053) \\
+ & Williams squares         & .901 (.058) & .890 (.036) & .921 (.043) & .938 (.044) \\
+ & Williams squares, best of 500 & 1.000 (.000) & .937 (.032) & .875 (.000) & .953 (.042) \\
+ & Rerandomization          & .856 (.073) & .838 (.052) & .908 (.065) & .927 (.052) \\
+ & Best classical design    & .867 (.000) & .867 (.000) & -- & -- \\
+ & Annealing, random start  & .870 (.080) & .876 (.062) & .940 (.066) & .979 (.032) \\
+ & Annealing, Williams start & .938 (.070) & .926 (.044) & .927 (.045) & .968 (.044) \\
+ & LIBRA without spread     & .913 (.064) & .917 (.045) & .901 (.037) & .975 (.030) \\
+ & LIBRA                    & .974 (.033) & .957 (.032) & .875 (.000) & .990 (.022) \\
+
+--- TAB_EFF
+\multirow{10}{*}{\shortstack[l]{M1: without\\ carry-over}} & Simple randomization     & .927 & .965 & .936 & .947 & .877 \\
+ & Random Latin squares     & 1.000 & 1.000 & 1.000 & .992 & 1.000 \\
+ & Williams squares         & 1.000 & 1.000 & 1.000 & .992 & 1.000 \\
+ & Williams squares, best of 500 & 1.000 & 1.000 & 1.000 & .996 & 1.000 \\
+ & Rerandomization          & .967 & .983 & .977 & .969 & .977 \\
+ & Best classical design    & 1.000 & 1.000 & -- & -- & -- \\
+ & Annealing, random start  & 1.000 & 1.000 & 1.000 & .996 & 1.000 \\
+ & Annealing, Williams start & 1.000 & 1.000 & 1.000 & .996 & 1.000 \\
+ & LIBRA without spread     & 1.000 & 1.000 & 1.000 & .996 & 1.000 \\
+ & LIBRA                    & 1.000 & 1.000 & 1.000 & .996 & 1.000 \\
+\midrule
+\multirow{11}{*}{\shortstack[l]{M2: with\\ carry-over}} & Simple randomization     & .806 & .878 & .785 & .860 & .585 \\
+ & Random Latin squares     & .850 & .901 & .803 & .894 & .603 \\
+ & Williams squares         & .917 & .932 & .909 & .949 & .733 \\
+ & Williams squares, best of 500 & .917 & .947 & .909 & .957 & .733 \\
+ & Rerandomization          & .881 & .913 & .859 & .904 & .760 \\
+ & Best classical design    & .947 & .947 & -- & -- & -- \\
+ & Annealing, random start  & .893 & .924 & .864 & .951 & .733 \\
+ & Annealing, Williams start & .945 & .946 & .909 & .954 & .733 \\
+ & LIBRA without spread     & .947 & .947 & .909 & .958 & .733 \\
+ & LIBRA                    & .947 & .947 & .909 & .958 & .733 \\
+ & \emph{Best found, no balance constraints} & \emph{.947} & \emph{.947} & \emph{.909} & \emph{.958} & \emph{.776} \\
+
+--- TAB_SIM
+\multirow{10}{*}{Type I error} & Simple randomization     & .043 & .059 & .057 & .049 & .050 \\
+ & Random Latin squares     & .058 & .052 & .054 & .058 & .051 \\
+ & Williams squares         & .047 & .048 & .045 & .052 & .044 \\
+ & Williams squares, best of 500 & .048 & .048 & .057 & .045 & .051 \\
+ & Rerandomization          & .057 & .049 & .052 & .049 & .051 \\
+ & Best classical design    & .047 & .051 & -- & -- & -- \\
+ & Annealing, random start  & .051 & .053 & .044 & .050 & .058 \\
+ & Annealing, Williams start & .053 & .052 & .046 & .048 & .042 \\
+ & LIBRA without spread     & .051 & .053 & .049 & .044 & .059 \\
+ & LIBRA                    & .045 & .054 & .054 & .047 & .046 \\
+\midrule
+\multirow{10}{*}{Power (exact)} & Simple randomization     & .605 & .935 & .629 & .788 & .346 \\
+ & Random Latin squares     & .639 & .943 & .660 & .808 & .381 \\
+ & Williams squares         & .639 & .943 & .660 & .808 & .381 \\
+ & Williams squares, best of 500 & .639 & .943 & .660 & .810 & .381 \\
+ & Rerandomization          & .623 & .939 & .649 & .798 & .373 \\
+ & Best classical design    & .639 & .943 & -- & -- & -- \\
+ & Annealing, random start  & .639 & .943 & .660 & .810 & .381 \\
+ & Annealing, Williams start & .639 & .943 & .660 & .810 & .381 \\
+ & LIBRA without spread     & .639 & .943 & .660 & .810 & .381 \\
+ & LIBRA                    & .639 & .943 & .660 & .810 & .381 \\
+
+--- TAB_SIMSTRATA
+Simple randomization     & .262 & .540 & $-$.105 & .061 & .325 & .339 & $-$.089 & .043 \\
+Random Latin squares     & .258 & .566 & $-$.099 & .044 & .318 & .368 & $-$.077 & .051 \\
+Williams squares         & .258 & .591 & $-$.100 & .059 & .317 & .405 & $-$.083 & .054 \\
+Williams squares, best of 500 & .258 & .593 & $-$.102 & .054 & .317 & .405 & $-$.085 & .051 \\
+Rerandomization          & .260 & .566 & $-$.100 & .056 & .321 & .361 & $-$.084 & .044 \\
+Best classical design    & .258 & .608 & $-$.100 & .052 & -- & -- & -- & -- \\
+Annealing, random start  & .258 & .579 & $-$.094 & .051 & .317 & .392 & $-$.089 & .042 \\
+Annealing, Williams start & .258 & .607 & $-$.101 & .050 & .317 & .407 & $-$.075 & .052 \\
+LIBRA without spread     & .258 & .608 & $-$.100 & -- & .317 & .406 & $-$.082 & -- \\
+LIBRA                    & .258 & .608 & $-$.100 & .048 & .317 & .406 & $-$.083 & .048 \\
+
+--- TAB_DIV
+Simple randomization     & 60 & 60 & 60 & 60 & 54 \\
+Random Latin squares     & 60 & 60 & 59 & 60 & 2 \\
+Williams squares         & 4 & 56 & 22 & 60 & 1 \\
+Williams squares, best of 500 & 1 & 11 & 2 & 60 & 1 \\
+Rerandomization          & 60 & 60 & 60 & 60 & 4 \\
+Best classical design    & 1 & 44 & -- & -- & -- \\
+Annealing, random start  & 60 & 60 & 58 & 60 & 1 \\
+Annealing, Williams start & 60 & 60 & 21 & 60 & 1 \\
+LIBRA without spread     & 59 & 60 & 15 & 60 & 1 \\
+LIBRA                    & 2 & 60 & 2 & 60 & 1 \\
+
+--- TAB_PRED_G1
+\multirow{11}{*}{\shortstack[l]{G1: pooled\\ transition table}} & Simple randomization     & .405 (.103) & .360 (.080) & .481 (.100) & .338 (.090) \\
+ & Random Latin squares     & .416 (.164) & .374 (.087) & .534 (.114) & .359 (.112) \\
+ & Williams squares         & .333 (.000) & .322 (.060) & .333 (.000) & .236 (.056) \\
+ & Williams squares, best of 500 & .333 (.000) & .250 (.000) & .333 (.000) & .233 (.067) \\
+ & Rerandomization          & .352 (.083) & .335 (.064) & .424 (.094) & .296 (.084) \\
+ & Best classical design    & .250 (.000) & .250 (.000) & -- & -- \\
+ & Annealing, random start  & .392 (.097) & .331 (.065) & .443 (.098) & .256 (.055) \\
+ & Annealing, Williams start & .263 (.040) & .266 (.037) & .333 (.000) & .251 (.068) \\
+ & LIBRA without spread     & .250 (.000) & .250 (.000) & .333 (.000) & .235 (.082) \\
+ & LIBRA                    & .250 (.000) & .250 (.000) & .333 (.000) & .238 (.075) \\
+ & \emph{Chance} & \emph{.250} & \emph{.250} & \emph{.333} & \emph{.200} \\
+
+--- TAB_SCALE
+3 & sequence counts & 6/6 & 1/6 & 2 & 6/6 & 0.1 & 6/6 \\
+4 & sequence counts & 6/6 & 6/6 & 1 & 5/6 & 0.9 & 6/6 \\
+5 & sequence counts & 6/6 & 5/6 & 2 & 4/6 & 72.2 & 6/6 \\
+6 & sequence counts & 6/6 & 6/6 & 1 & 4/6 & 193.4 & 6/6 \\
+7 & sequence counts & 6/6 & 4/6 & 5 & 4/6 & 154.8 & 6/6 \\
+8 & per subject & 6/6 & 6/6 & 1 & 3/6 & 1407.9 & 3/6 \\
+
+--- TAB_RULES
+A, no rules                            & 0 & 0 & 0.0 & 1 & .947 & 0.00 & 24 \\
+A, two transitions forbidden           & 0 & 6 & 2.0 & 0 & .861 & 1.00 & 23 \\
+A, intense never before mild           & 12 & 2 & 3.0 & 4 & .880 & 1.00 & 4 \\
+Incomplete, $t = 6$, $p = 4$, $N = 30$ & 0 & 0 & 0.0 & 0 & -- & 1.00 & 24 \\
+
+--- TAB_CERT
+$t = 5$, $N = 15$: carry-over balance + perfect spread & impossible & 1.0 & yes \\
+$t = 5$, $N = 15$: minimum spread excess with carry-over balance & 1 & 75 & yes \\
+$t = 5$, $N = 15$: period + carry-over + nested balance & impossible & 27 & yes \\
+Minimum G3 after two periods, $t = 5$, $N = 15$ & 10/15 = .667 & 65 & yes \\
+\quad $t = 4$, $N = 8$ & 7/8 = .875 & $< 1$ & yes \\
+\quad $t = 6$, $N = 10$ & 6/10 = .600 & 26 & yes \\
+\quad $t = 5$, $2 \times 15$, strata pooled & 10/30 = .333 & 24 & yes \\
+\quad $t = 4$, $2 \times 8$, strata pooled & 11/16 = .688 & $< 1$ & yes \\
+$t = 3$, $N = 9$: carry-over balance & impossible & $< 1$ & yes \\
+
+--- TAB_PERM
+A & No effect & .044 & .036 & .040 \\
+A & Effect & .625 & .627 & .625 \\
+B & No effect & .033 & .044 & .040 \\
+B & Effect & .926 & .925 & .928 \\
+D & No effect & .058 & .060 & .055 \\
+D & Effect & .781 & .771 & .776 \\
+
+--- TAB_FULLLIST
+\multicolumn{4}{@{}l}{\emph{Configuration A}} \\
+\quad G3 after 1 period & .517 & .358 & .667 \\
+\quad G3 after 2 periods & .900 & .975 & .667 \\
+\quad G3 after 2 periods, stratum known & .900 & .975 & .667 \\
+\quad G3, mean over periods & .799 & .778 & .778 \\
+\quad Spread deviation & 11.0 & 1.0 & 10.2 \\
+\quad Efficiency M2 & .917 & .947 & .947 \\
+\quad Distinct skeletons (of 16) & 4 & 2 & 5 \\
+\multicolumn{4}{@{}l}{\emph{Configuration B}} \\
+\quad G3 after 1 period & .442 & .348 & .467 \\
+\quad G3 after 2 periods & .735 & .717 & .594 \\
+\quad G3 after 2 periods, stratum known & .896 & .960 & .735 \\
+\quad G3, mean over periods & .696 & .676 & .674 \\
+\quad Spread deviation & 49.5 & 9.0 & 42.8 \\
+\quad Efficiency M2 & .931 & .947 & .947 \\
+\quad Distinct skeletons (of 16) & 16 & 16 & 15 \\
+\multicolumn{4}{@{}l}{\emph{Configuration C}} \\
+\quad G3 after 1 period & .590 & .500 & .500 \\
+\quad G3 after 2 periods & .816 & .688 & .688 \\
+\quad G3 after 2 periods, stratum known & .918 & .875 & .875 \\
+\quad G3, mean over periods & .703 & .594 & .594 \\
+\quad Spread deviation & 18.9 & 6.0 & 6.0 \\
+\quad Efficiency M2 & .909 & .909 & .909 \\
+\quad Distinct skeletons (of 16) & 11 & 2 & 2 \\
+\multicolumn{4}{@{}l}{\emph{Configuration D}} \\
+\quad G3 after 1 period & .491 & .428 & .506 \\
+\quad G3 after 2 periods & .834 & .906 & .856 \\
+\quad G3 after 2 periods, stratum known & .934 & .997 & .903 \\
+\quad G3, mean over periods & .822 & .828 & .838 \\
+\quad Spread deviation & 27.3 & 12.3 & 21.4 \\
+\quad Efficiency M2 & .949 & .958 & .958 \\
+\quad Distinct skeletons (of 16) & 16 & 16 & 15 \\
+
+--- TAB_UNIF
+$t = 4$, $N = 12$, spread off & Random walk & 58 & 600 & 8/58 & $< .001$ & 5,570.6 \\
+$t = 4$, $N = 12$, spread off & Variety (listing) & 58 & 12,000 & 53/58 & .936 & 5.2 \\
+$t = 4$, $N = 16$, spread on & Random walk & 12 & 600 & 12/12 & .971 & 1.1 \\
+$t = 4$, $N = 16$, spread on & Variety (listing) & 12 & 12,000 & 12/12 & .129 & 1.1 \\
+
+--- TAB_EARLY
+A & Williams squares & 10.2 & .294 & .773 \\
+ & Williams, best of 500 & 5.0 & .367 & .773 \\
+ & Best classical design & 10.0 & .331 & .800 \\
+ & Annealing, Williams start & 4.2 & .348 & .797 \\
+ & LIBRA without spread & 5.8 & .342 & .799 \\
+ & LIBRA & 1.0 & .373 & .800 \\
+\midrule
+B & Williams squares & 52.1 & .348 & .799 \\
+ & Williams, best of 500 & 14.8 & .392 & .812 \\
+ & Best classical design & 49.6 & .370 & .812 \\
+ & Annealing, Williams start & 31.6 & .380 & .811 \\
+ & LIBRA without spread & 32.8 & .379 & .812 \\
+ & LIBRA & 15.8 & .390 & .812 \\
+\midrule
+C & Williams squares & 13.6 & .423 & .765 \\
+ & Williams, best of 500 & 6.0 & .506 & .765 \\
+ & Annealing, Williams start & 14.3 & .412 & .765 \\
+ & LIBRA without spread & 9.3 & .436 & .765 \\
+ & LIBRA & 6.0 & .506 & .765 \\
+\midrule
+D & Williams squares & 85.2 & .243 & .816 \\
+ & Williams, best of 500 & 82.9 & .229 & .823 \\
+ & Annealing, Williams start & 77.9 & .259 & .820 \\
+ & LIBRA without spread & 68.3 & .269 & .823 \\
+ & LIBRA & 59.2 & .272 & .823 \\
+
+--- TAB_PARTIAL
+Simple randomization     & .808 & .832 & .723 & .764 & .803 & .818 & .692 & .731 \\
+Random Latin squares     & .800 & .800 & .683 & .729 & .800 & .800 & .658 & .707 \\
+Williams squares         & .800 & .800 & .709 & .749 & .800 & .800 & .678 & .710 \\
+Williams squares, best of 500 & .800 & .800 & .673 & .697 & .800 & .800 & .666 & .700 \\
+Rerandomization          & .802 & .820 & .692 & .743 & .796 & .811 & .671 & .716 \\
+Best classical design    & .800 & .800 & .684 & .720 & .800 & .800 & .658 & .694 \\
+Annealing, random start  & .800 & .800 & .679 & .739 & .800 & .800 & .661 & .711 \\
+LIBRA without spread     & .800 & .800 & .688 & .731 & .800 & .800 & .659 & .710 \\
+LIBRA                    & .800 & .800 & .665 & .711 & .800 & .800 & .651 & .699 \\
+\emph{Baseline} & \emph{.801} & \emph{.801} & \emph{.666} & \emph{.666} & \emph{.800} & \emph{.800} & \emph{.666} & \emph{.666} \\
+
+--- TAB_MINRANGE
+3 & 6 & 1 & 0 & yes & 0 & 0.0 \\
+3 & 6 & 2 & 2 & yes & 2 & 0.0 \\
+3 & 9 & 1 & 2 & yes & 2 & 0.0 \\
+3 & 9 & 2 & 2 & yes & 2 & 0.0 \\
+3 & 14 & 1 & 2 & yes & 2 & 0.0 \\
+3 & 14 & 2 & 2 & yes & 2 & 0.0 \\
+5 & 10 & 1 & 0 & yes & 0 & 0.0 \\
+5 & 10 & 2 & 2 & yes & 2 & 0.5 \\
+5 & 15 & 1 & 0 & yes & 0 & 0.8 \\
+5 & 15 & 2 & 1 & yes & 1 & 124.3 \\
+5 & 22 & 1 & 1 & yes & 1 & 114.2 \\
+5 & 22 & 2 & 1 & yes & 1 & 89.1 \\
+
+--- TAB_WILLIAMS
+A & per copy & .502 & .901 & .917 & 4 \\
+A & shared & .667 & 1.000 & .917 & 1 \\
+B & per copy & .432 & .734 & .932 & 56 \\
+B & shared & .486 & .856 & .933 & 7 \\
+C & per copy & .588 & .822 & .909 & 22 \\
+C & shared & .676 & .917 & .909 & 3 \\
+D & per copy & .501 & .839 & .949 & 60 \\
+D & shared & .656 & .934 & .949 & 60 \\
+
+--- TAB_SCHEDULE
+P01 & P & H & M & L & A & P16 & H & M & A & L & P \\
+P02 & L & M & A & P & H & P17 & H & L & A & P & M \\
+P03 & H & L & A & M & P & P18 & M & A & P & L & H \\
+P04 & L & A & M & H & P & P19 & L & A & M & H & P \\
+P05 & P & A & L & H & M & P20 & P & H & L & M & A \\
+P06 & L & H & P & A & M & P21 & M & H & P & A & L \\
+P07 & M & H & L & A & P & P22 & L & P & A & M & H \\
+P08 & A & P & H & L & M & P23 & A & L & M & P & H \\
+P09 & A & M & H & P & L & P24 & A & M & P & H & L \\
+P10 & P & L & H & M & A & P25 & P & A & L & H & M \\
+P11 & H & M & L & P & A & P26 & A & P & H & M & L \\
+P12 & M & A & P & H & L & P27 & M & L & H & P & A \\
+P13 & M & P & A & L & H & P28 & L & H & M & A & P \\
+P14 & H & P & M & A & L & P29 & H & P & L & A & M \\
+P15 & A & L & P & M & H & P30 & P & M & H & L & A \\
+
+--- S1
+1.0
+
+--- S2
+75
+
+--- S3
+27
+
+--- S4
+65
+
+--- S5
+$< 1$
+
+--- S6
+26
+
+--- S7
+24
+
+--- S8
+$< 1$
+
+--- MPSROWS
+\texttt{t5n15\_carry\_spread.mps} & Infeasible & 120 & 126 & 1.0 \\
+\texttt{t5n15\_min\_spread.mps} & Optimal, objective 10 & 280 & 206 & 75 \\
+\texttt{t5n15\_nested.mps} & Infeasible & 120 & 106 & 27 \\
+\texttt{t5n15\_min\_g3\_k2.mps} & Optimal, objective 10 & 140 & 106 & 65 \\
+\texttt{t5n2x15\_min\_g3\_k2.mps} & Optimal, objective 10 & 260 & 197 & 24 \\
+\texttt{t4n2x8\_min\_g3\_k2.mps} & Optimal, objective 11 & 60 & 110 & $< 1$ \\
+\texttt{t3n9\_carry.mps} & Infeasible & 6 & 16 & $< 1$ \\
+\texttt{t4n8\_min\_g3\_k2.mps} & Optimal, objective 7 & 36 & 53 & $< 1$ \\
+\texttt{t6n10\_min\_g3\_k2.mps} & Optimal, objective 6 & 750 & 187 & 26 \\
+
+--- TUNETABLE
+\begin{tabular}{lrrrrrrrrrl}
+\toprule
+Configuration & 1 & 10 & 100 & 1,000 & 10,000 & 100,000 & 1,000,000 & 10,000,000 & 1,000,000,000 & Chosen \\
+\midrule
+A & 2000006 & 2666673 & 2000008 & 2000008 & 2000008 & 2000008 & 666671 & 2333339 & 6 & 1,000,000,000 \\
+B & 9674013014 & 10340681182 & 10006680682 & 6671012016 & 7672344846 & 7672011346 & 4669345184 & 3668013515 & 2669346513 & 1,000,000,000 \\
+C & 6679 & 6679 & 6679 & 6679 & 6679 & 6679 & 6679 & 6679 & 6679 & 1 \\
+D & 168002672016 & 1336005183 & 1336005183 & 1336005183 & 1169006017 & 1169006017 & 668671185 & 335172019 & 335336517 & 10,000,000 \\
+E & 6000000 & 6000000 & 6000000 & 6000000 & 6000000 & 6000000 & 6000000 & 6000000 & 6000000 & 1 \\
+\bottomrule
+\end{tabular}
+
+28 table blocks written to results\latex

@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Installer build products (rebuilt by app/installer/build.py)
+app/installer/build/
+app/installer/output/
+app/installer/build_log.txt

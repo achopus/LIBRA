@@ -1,0 +1,45 @@
+# r09_reference_values.py  started 2026-11-03 11:23:21
+config  mi_lower_bound  mi_ilp  mi_simple  share_ilp_at_min_spread  min_spread_seen
+     A           0.737   0.770      0.921                    1.000                1
+     B           0.404   0.483      0.660                    0.117                0
+     C           0.500   0.583      0.717                    1.000                2
+     D             NaN   1.067      1.023                    0.017                3
+     E           0.667   0.667      0.714                    1.000                0
+r09_reference_values.py:52: Pandas4Warning: Starting with pandas version 4.0 all arguments of sum will be keyword-only.
+  g["spread_units"] = g[[f"spread_dev[{u}]" for u in units]].sum(1)
+r09_reference_values.py:53: Pandas4Warning: Starting with pandas version 4.0 all arguments of sum will be keyword-only.
+  g["period_units"] = g[[f"period_dev[{u}]" for u in units]].sum(1)
+r09_reference_values.py:52: Pandas4Warning: Starting with pandas version 4.0 all arguments of sum will be keyword-only.
+  g["spread_units"] = g[[f"spread_dev[{u}]" for u in units]].sum(1)
+r09_reference_values.py:53: Pandas4Warning: Starting with pandas version 4.0 all arguments of sum will be keyword-only.
+  g["period_units"] = g[[f"period_dev[{u}]" for u in units]].sum(1)
+r09_reference_values.py:52: Pandas4Warning: Starting with pandas version 4.0 all arguments of sum will be keyword-only.
+  g["spread_units"] = g[[f"spread_dev[{u}]" for u in units]].sum(1)
+r09_reference_values.py:53: Pandas4Warning: Starting with pandas version 4.0 all arguments of sum will be keyword-only.
+  g["period_units"] = g[[f"period_dev[{u}]" for u in units]].sum(1)
+r09_reference_values.py:52: Pandas4Warning: Starting with pandas version 4.0 all arguments of sum will be keyword-only.
+  g["spread_units"] = g[[f"spread_dev[{u}]" for u in units]].sum(1)
+r09_reference_values.py:53: Pandas4Warning: Starting with pandas version 4.0 all arguments of sum will be keyword-only.
+  g["period_units"] = g[[f"period_dev[{u}]" for u in units]].sum(1)
+r09_reference_values.py:52: Pandas4Warning: Starting with pandas version 4.0 all arguments of sum will be keyword-only.
+  g["spread_units"] = g[[f"spread_dev[{u}]" for u in units]].sum(1)
+r09_reference_values.py:53: Pandas4Warning: Starting with pandas version 4.0 all arguments of sum will be keyword-only.
+  g["period_units"] = g[[f"period_dev[{u}]" for u in units]].sum(1)
+config             A      B      C      D     E
+method                                         
+ilp             1.00  10.93   6.00  13.08  0.00
+ilp_nospread    7.88  31.93  14.27  19.03  0.00
+latin          14.07  59.25  19.36  30.03  2.94
+rerand         11.91  54.76  14.92  29.92  0.00
+simple         17.00  73.48  27.77  40.56  5.30
+williams       10.12  43.64  19.99  29.56  0.00
+williams_best   0.00   8.86   6.00  28.86  0.00
+config             A       B      C      D     E
+method                                          
+ilp             0.00    0.00   0.00   0.00  0.00
+ilp_nospread    0.00    0.00   0.00   0.00  0.00
+latin           0.00    0.00   0.00   4.01  0.00
+rerand         19.11   75.12  30.97  44.38  3.58
+simple         30.20  103.66  51.63  66.34  9.82
+williams        0.00    0.00   0.00   3.93  0.00
+williams_best   0.00    0.00   0.00   0.18  0.00

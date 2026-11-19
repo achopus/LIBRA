@@ -1,0 +1,81 @@
+# r19_worked_example.py  started 2026-11-03 10:33:05
+variety 2 random walk None 42.3
+variety 4 random walk None 42.4
+variety 8 random walk None 43.1
+variety 6 random walk None 43.8
+variety 3 random walk None 44.8
+variety 11 random walk None 44.9
+variety 10 random walk None 45.0
+variety 5 random walk None 45.4
+variety 1 random walk None 45.8
+variety 7 random walk None 45.9
+variety 9 random walk None 46.9
+variety 12 random walk None 47.9
+variety 14 random walk None 44.5
+speed 1 random objective None 1.0
+variety 15 random walk None 45.8
+speed 2 random objective None 0.8
+speed 3 random objective None 0.9
+variety 13 random walk None 48.6
+variety 18 random walk None 47.1
+speed 5 random objective None 0.8
+speed 4 random objective None 1.1
+speed 6 random objective None 0.9
+variety 20 random walk None 47.2
+variety 17 random walk None 48.6
+speed 9 random objective None 0.9
+speed 8 random objective None 0.9
+speed 10 random objective None 0.9
+speed 7 random objective None 1.3
+variety 21 random walk None 48.9
+speed 11 random objective None 0.8
+variety 22 random walk None 49.0
+variety 16 random walk None 51.2
+speed 12 random objective None 1.0
+variety 23 random walk None 48.5
+speed 13 random objective None 0.9
+speed 14 random objective None 0.9
+speed 15 random objective None 0.9
+speed 17 random objective None 0.9
+speed 16 random objective None 1.0
+speed 18 random objective None 1.0
+speed 21 random objective None 0.9
+speed 20 random objective None 1.1
+speed 19 random objective None 1.2
+variety 19 random walk None 51.9
+speed 22 random objective None 0.9
+speed 23 random objective None 0.8
+speed 24 random objective None 0.8
+variety 24 random walk None 50.0
+
+== speed distinct designs: 24 methods: {'random objective': 24}
+                     mean    std    min    max
+seconds             0.940  0.118  0.754  1.255
+proven              1.000  0.000  1.000  1.000
+carry_range[site1]  2.000  0.000  2.000  2.000
+carry_range[site2]  2.000  0.000  2.000  2.000
+spread_dev[all]     0.000  0.000  0.000  0.000
+period_dev[site1]   0.000  0.000  0.000  0.000
+violations[all]     0.000  0.000  0.000  0.000
+G2_1                0.333  0.000  0.333  0.333
+G3_2                0.718  0.061  0.600  0.867
+G3_2_by_site        1.000  0.000  1.000  1.000
+eff_M2              0.861  0.000  0.861  0.861
+eff_M1              1.000  0.000  1.000  1.000
+runs with range 2 at both sites: 24
+
+== variety distinct designs: 24 methods: {'random walk': 24}
+                      mean    std     min     max
+seconds             46.646  2.634  42.330  51.943
+proven               1.000  0.000   1.000   1.000
+carry_range[site1]   2.000  0.000   2.000   2.000
+carry_range[site2]   2.000  0.000   2.000   2.000
+spread_dev[all]      0.000  0.000   0.000   0.000
+period_dev[site1]    0.000  0.000   0.000   0.000
+violations[all]      0.000  0.000   0.000   0.000
+G2_1                 0.333  0.000   0.333   0.333
+G3_2                 0.725  0.065   0.600   0.833
+G3_2_by_site         1.000  0.000   1.000   1.000
+eff_M2               0.861  0.000   0.861   0.861
+eff_M1               1.000  0.000   1.000   1.000
+runs with range 2 at both sites: 24

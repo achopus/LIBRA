@@ -1,0 +1,4 @@
+Unit,Subjects,Week counts (min–max),Week balance,Carry-over counts (min–max),Best-guess accuracy
+All subjects,30,6–6,as even as possible,6–6,0.25
+sex = male,15,3–3,as even as possible,3–3,0.25
+sex = female,15,3–3,as even as possible,3–3,0.25

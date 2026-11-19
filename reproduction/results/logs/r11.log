@@ -1,0 +1,16 @@
+# r11_williams_check.py  started 2026-11-03 10:30:20
+A: regenerated Williams pool identical to saved pool: True
+B: regenerated Williams pool identical to saved pool: True
+C: regenerated Williams pool identical to saved pool: True
+D: regenerated Williams pool identical to saved pool: True
+E: regenerated Williams pool identical to saved pool: True
+
+config  variant              G2(1)   G3(2)   M2      skeletons(first 60)
+A       per-copy (paper)     0.502   0.901   0.917   4
+A       shared per stratum   0.667   1.000   0.917   1
+B       per-copy (paper)     0.432   0.734   0.932   56
+B       shared per stratum   0.486   0.856   0.933   7
+C       per-copy (paper)     0.588   0.822   0.909   22
+C       shared per stratum   0.676   0.917   0.909   3
+D       per-copy (paper)     0.501   0.839   0.949   60
+D       shared per stratum   0.656   0.934   0.949   60

@@ -1,0 +1,31 @@
+# GitHub shows a "Cite this repository" button from this file.
+# Add a preferred-citation for the article once it is published.
+cff-version: 1.2.0
+message: "If you use LIBRA, please cite it as below."
+type: software
+title: "LIBRA – Crossover Randomizer"
+abstract: >-
+  LIBRA (Linear Integer Programming for Balanced Randomization) randomizes crossover and other
+  repeated-measures designs by integer linear programming: balance across periods and carry-over
+  within every stratum, user-defined rules, and a random choice among the best designs.
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Brejtr
+    given-names: Vojtěch
+    affiliation: "Czech Institute of Informatics, Robotics and Cybernetics; National Institute of Mental Health"
+  - family-names: Šíchová
+    given-names: Klára
+    affiliation: "National Institute of Mental Health"
+  - family-names: Páleníček
+    given-names: Tomáš
+    affiliation: "National Institute of Mental Health; Third Medical Faculty of Charles University"
+  - family-names: Lhotská
+    given-names: Lenka
+    affiliation: "Czech Institute of Informatics, Robotics and Cybernetics"
+keywords:
+  - counterbalancing
+  - crossover design
+  - randomization
+  - within-participant design
+  - integer linear programming
